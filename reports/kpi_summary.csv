@@ -1,0 +1,14 @@
+KPI,Value
+total_records,988
+unique_customers,10
+unique_products,20
+cities_with_sales,12
+total_units_sold,4108
+known_gross_sales,62220420.0
+missing_price_records,12
+missing_city_records,17
+missing_customer_records,10
+best_sales_month,May
+best_sales_category,Home Appliances
+top_sales_city,Noida
+top_sales_product,Washing Machine

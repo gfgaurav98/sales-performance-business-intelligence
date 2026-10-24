@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,City,Category,Product,Quantity,Unit_Price,Discount
+ORD10001,2025-11-30,Aarav Sharma,Noida,Furniture,Study Table,4,21430,2.35
+ORD10002,2025-04-20,Aarav Sharma,Noida,Grocery,Rice,9,1060,1.75
+ORD10003,2025-10-17,Priya Verma,,Electronics,Headphones,1,9750,14.57
+ORD10004,2025-04-24,Aarav Sharma,Chennai,Electronics,Headphones,1,12990,7.24
+ORD10005,2025-06-07,Rohit Yadav,Jaipur,Home Appliances,Refrigerator,5,29940,14.54
+ORD10006,2025-10-08,Priya Verma,Kolkata,Home Appliances,Microwave,1,7890,5.15
+ORD10007,2025-08-27,Pooja Shah,Hyderabad,Grocery,Coffee,6,770,6.21
+ORD10008,2025-10-22,Amit Kumar,Chennai,Home Appliances,Washing Machine,1,38790,8.59
+ORD10009,2025-02-07,Priya Verma,Chennai,Clothing,Jacket,5,3770,18.93
+ORD10010,2025-01-21,Priya Verma,Chennai,Home Appliances,Mixer Grinder,4,5350,21.89
+ORD10011,2025-06-29,Pooja Shah,Hyderabad,Furniture,Bookshelf,6,10330,11.41
+ORD10012,2025-12-23,Priya Verma,Delhi,Electronics,Tablet,4,35590,7.74
+ORD10013,2025-07-17,Sneha Patel,Delhi,Grocery,Coffee,5,1700,8.89
+ORD10014,2025-01-31,Neha Gupta,Pune,Grocery,Rice,8,670,6.19
+ORD10015,2025-03-27,Anjali Rao,Bengaluru,Clothing,Shoes,1,5210,22.08
+ORD10016,2025-08-01,Sneha Patel,Jaipur,Clothing,Jacket,6,5960,23.94
+ORD10017,2025-03-19,Neha Gupta,Jaipur,Home Appliances,Refrigerator,2,32830,12.12
+ORD10018,2025-05-25,Aarav Sharma,Gurugram,Grocery,Cooking Oil,5,980,9.23
+ORD10019,2025-12-20,Rohit Yadav,Kolkata,Grocery,Tea,3,840,18.49
+ORD10020,2025-07-24,Vikram Mehta,Noida,Clothing,Shoes,4,4720,10.01
+ORD10021,2025-08-14,Rahul Singh,Noida,Home Appliances,Refrigerator,2,38700,1.31
+ORD10022,2025-02-21,Sneha Patel,Kolkata,Electronics,Smartphone,5,13480,21.86
+ORD10023,2025-11-21,Amit Kumar,Ahmedabad,Grocery,Coffee,3,1160,11.85
+ORD10024,2025-09-03,Anjali Rao,pune,Electronics,Headphones,4,2020,2.55
+ORD10025,2025-12-21,Rahul Singh,Chennai,Furniture,Bookshelf,4,2810,23.77
+ORD10026,2025-12-20,Rohit Yadav,Delhi,Grocery,Tea,3,950,7.45
+ORD10027,2025-07-07,Rahul Singh,Ahemdabad,Electronics,Tablet,5,37020,13.31
+ORD10028,2025-11-10,Neha Gupta,Mumbai,Grocery,Tea,4,1010,18.5
+ORD10029,2025-09-10,Sneha Patel,Lucknow,Home Appliances,Washing Machine,5,19220,0.7
+ORD10030,2025-04-10,Pooja Shah,Ahmedabad,Furniture,Sofa,3,41260,23.43
+ORD10031,2025-04-23,Priya Verma,Mumbai,Furniture,Bookshelf,1,8850,8.44
+ORD10032,2025-12-01,Sneha Patel,Jaipur,Clothing,T-Shirt,4,550,16.51
+ORD10033,2025-04-02,Vikram Mehta,Jaipur,Clothing,Jeans,4,1760,20.02
+ORD10034,2025-02-13,Rahul Singh,Gurugram,Clothing,Shoes,4,8450,0.69
+ORD10035,2025-11-10,Pooja Shah,Hyderabad,Grocery,Coffee,3,1240,8.76
+ORD10036,2025-01-08,Priya Verma,Chennai,Grocery,Cooking Oil,1,1670,3.48
+ORD10037,2025-05-09,Neha Gupta,Pune,Home Appliances,Washing Machine,1,39050,19.09
+ORD10038,2025-08-03,Rahul Singh,Delhi,Furniture,Bookshelf,5,14790,8.84
+ORD10039,2025-03-08,Rohit Yadav,Gurugram,Clothing,Shoes,5,5020,0.47
+ORD10040,2025-01-03,Rahul Singh,Gurugram,Clothing,Jeans,5,1270,15.48
+ORD10041,2025-12-16,Rohit Yadav,Chennai,Electronics,Laptop,3,69990,19.61
+ORD10042,2025-04-08,Amit Kumar,Delhi,Electronics,Laptop,2,79750,12.69
+ORD10043,2025-08-15,Sneha Patel,Kolkata,Grocery,Rice,2,1770,15.15
+ORD10044,2025-09-18,Rohit Yadav,Hyderabad,Home Appliances,Microwave,4,14620,6.19
+ORD10045,2025-04-14,Anjali Rao,Gurugram,Grocery,Tea,9,590,9.81
+ORD10046,2025-05-04,Vikram Mehta,NOIDA,Furniture,Office Chair,6,7010,7.57
+ORD10047,2025-11-26,Sneha Patel,Gurugram,Electronics,Smartphone,6,26680,3.43
+ORD10048,2025-02-18,Vikram Mehta,HYDERABAD,Clothing,Jeans,6,1320,16.7
+ORD10049,2025-08-09,Rohit Yadav,Bengaluru,Home Appliances,Washing Machine,6,32240,4.89
+ORD10391,2025-08-14,Vikram Mehta,Pune,Grocery,Cooking Oil,10,340,4.51
+ORD10051,2025-09-22,Pooja Shah,Pune,Electronics,Headphones,3,8070,1.61
+ORD10052,2025-05-16,Amit Kumar,Delhi,Home Appliances,Refrigerator,1,69820,4.54
+ORD10053,2025-05-13,Vikram Mehta,Gurugram,Home Appliances,Mixer Grinder,6,5130,12.87
+ORD10054,2025-05-23,Aarav Sharma,Lucknow,Clothing,Jacket,1,2660,22.38
+ORD10055,2025-02-15,Amit Kumar,Noida,Furniture,Office Chair,6,13530,5.56
+ORD10056,2025-01-06,Sneha Patel, Chennai,Furniture,Office Chair,4,10390,22.89
+ORD10057,2025-09-27,Neha Gupta,Noida,Grocery,Cooking Oil,1,2140,6.55
+ORD10058,2025-11-18,Amit Kumar,Chennai,Home Appliances,Washing Machine,3,49900,7.25
+ORD10059,2025-06-27,Aarav Sharma,Pune,Grocery,Cooking Oil,5,180,0.46
+ORD10060,2025-09-01,Neha Gupta,Hyderabad,Grocery,Cooking Oil,9,320,20.47
+ORD10061,2025-07-21,Rohit Yadav,Pune,Clothing,Shoes,5,6220,24.56
+ORD10062,2025-11-22,Rahul Singh,Bangalore,Furniture,Study Table,6,24790,24.55
+ORD10063,2025-11-17,Amit Kumar,Bengaluru,Home Appliances,Refrigerator,1,28980,2.11
+ORD10064,2025-05-05,Amit Kumar,Delhi,Clothing,Jacket,5,3960,3.94
+ORD10065,2025-07-06,Sneha Patel,Chennai,Clothing,T-Shirt,3,980,0.86
+ORD10066,2025-04-04,Aarav Sharma,Ahmedabad,Furniture,Study Table,3,12630,11.87
+ORD10067,2025-09-16,Aarav Sharma,Noida,Grocery,Cooking Oil,4,650,2.24
+ORD10068,2025-01-12,Amit Kumar,Pune,Clothing,T-Shirt,4,1530,2.11
+ORD10069,2025-07-19,Sneha Patel,Lucknow,Grocery,Cooking Oil,10,2170,3.74
+ORD10070,2025-09-20,Vikram Mehta,Lucknow,Grocery,Cooking Oil,1,1570,12.64
+ORD10071,2025-12-31,Neha Gupta,Noida,Grocery,Rice,10,540,
+ORD10072,2025-08-20,Rohit Yadav,Delhi,Furniture,Office Chair,4,13860,15.66
+ORD10073,2025-01-02,Anjali Rao,Noida,Home Appliances,Mixer Grinder,3,6440,12.57
+ORD10074,2025-02-03,Anjali Rao,Pune,Grocery,Rice,9,1550,21.15
+ORD10075,2025-11-29,Anjali Rao,Hyderabad,Home Appliances,Washing Machine,2,53510,1.92
+ORD10076,2025-11-20,Neha Gupta,Noida,Furniture,Office Chair,5,13400,8.29
+ORD10077,2025-09-04,Aarav Sharma,Hyderabad,Furniture,Study Table,1,10380,16.8
+ORD10078,2025-12-29,Rohit Yadav,Pune,Home Appliances,Mixer Grinder,3,4680,11.66
+ORD10079,2025-02-13,Anjali Rao,Delhi,Electronics,Smartphone,3,28800,1.91
+ORD10080,2025-07-18,Neha Gupta,Mumbai,Grocery,Coffee,5,300,2.26
+ORD10081,2025-03-09,Pooja Shah,Jaipur ,Grocery,Tea,6,680,22.17
+ORD10082,2025-09-06,Vikram Mehta,Delhi,Furniture,Study Table,4,8180,23.75
+ORD10083,2025-03-14,Vikram Mehta,Ahmedabad,Clothing,Shoes,3,3950,3.02
+ORD10084,2025-06-23,Vikram Mehta,Noida,Furniture,Office Chair,3,19010,4.89
+ORD10085,2025-07-10,Priya Verma,Bengaluru,Electronics,Tablet,3,23660,21.75
+ORD10086,2025-05-21,Aarav Sharma,Pune,Electronics,Tablet,4,13560,20.87
+ORD10087,2025-05-17,Vikram Mehta,Chennai,Furniture,Study Table,2,11310,19.33
+ORD10088,2025-07-24,Rohit Yadav,Chennai,Clothing,T-Shirt,6,770,2.01
+ORD10089,2025-03-12,Amit Kumar,Hyderabad,Clothing,Shoes,5,1560,23.17
+ORD10090,2025-08-01,Sneha Patel,Pune,Home Appliances,Washing Machine,4,"₹30,510",18.48
+ORD10091,2025-05-03,Amit Kumar,Hyderabad,Furniture,Sofa,6,46980,9.86
+ORD10092,2025-04-17,Rohit Yadav,Hyderabad,Home Appliances,Washing Machine,1,41120,11.32
+ORD10093,2025-03-13,Rohit Yadav,Mumbai,Furniture,Sofa,4,30690,4.37
+ORD10094,2025-05-03,Sneha Patel,Pune,Grocery,Rice,6,1550,
+ORD10095,2025-07-31,Rohit Yadav,Mumbai,Electronics,Headphones,4,6150,8.46
+ORD10096,2025-10-22,Sneha Patel,Gurugram,Electronics,Headphones,3,10550,13.23
+ORD10097,2025-05-08,Vikram Mehta,Bengaluru,Home Appliances,Refrigerator,3,"₹55,520",10.8
+ORD10098,2025-01-17,Vikram Mehta,Lucknow,Furniture,Office Chair,2,16100,20.11
+ORD10099,2025-02-07,Vikram Mehta,Chennai,Grocery,Coffee,1,1570,24.31
+ORD10100,2025-03-21,Rahul Singh,Chennai,Home Appliances,Refrigerator,2,73450,2.72
+ORD10101,2025-01-21,Aarav Sharma,Gurugram,Clothing,T-Shirt,5,820,23.0
+ORD10102,2025-05-09,Rohit Yadav,Jaipur,Furniture,Study Table,6,13750,19.1
+ORD10103,2025-09-26,Pooja Shah,Mumbai,Electronics,Laptop,3,62460,5.59
+ORD10104,2025-10-03,Amit Kumar,Hyderabad,Grocery,Rice,1,860,7.91
+ORD10105,2025-05-01,Rohit Yadav,Mumbai,Home Appliances,Mixer Grinder,5,1980,10.3
+ORD10106,2025-04-10,Anjali Rao,Jaipur,Furniture,Office Chair,1,14180,2.03
+ORD10107,2025-04-27,Anjali Rao,Delhi,Home Appliances,Mixer Grinder,3,6110,17.96
+ORD10108,2025-01-04,Amit Kumar,Lucknow,Furniture,Sofa,2,61950,1.69
+ORD10109,2025-04-10,Neha Gupta,Hyderabad,Clothing,Jeans,3,1480,19.01
+ORD10110,2025-09-11,Pooja Shah,Gurugram,Furniture,Office Chair,5,18290,12.13
+ORD10111,2025-01-28,Neha Gupta,Delhi,Electronics,Smartphone,4,68500,3.55
+ORD10112,21/07/2025,Anjali Rao,Lucknow,Electronics,Laptop,2,84760,
+ORD10113,2025-04-08,Rahul Singh,Jaipur,Electronics,Smartphone,3,66280,18.66
+ORD10114,2025-07-13,Sneha Patel,Ahmedabad,Electronics,Tablet,6,25490,2.72
+ORD10115,2025-06-29,Vikram Mehta,Noida,Electronics,Tablet,1,29640,18.97
+ORD10116,2025-08-10,Priya Verma,Delhi,Clothing,Jacket,3,5110,4.89
+ORD10117,2025-06-15,Sneha Patel, Lucknow,Grocery,Coffee,4,1630,0.76
+ORD10118,2025-07-27,Aarav Sharma,Bengaluru,Clothing,Jeans,6,990,1.56
+ORD10119,2025-02-02,Pooja Shah,Ahmedabad,Electronics,Tablet,2,22700,8.37
+ORD10120,2025-12-20,Sneha Patel,Pune,Grocery,Rice,5,890,18.04
+ORD10121,2025-04-30,Priya Verma, Hyderabad,Grocery,Rice,1,1430,11.64
+ORD10122,2025-09-10,Rahul Singh,Hyderabad,Clothing,Jacket,4,2660,20.06
+ORD10123,2025-05-01,Sneha Patel,Ahmedabad,Furniture,Study Table,5,14220,19.6
+ORD10124,2025-04-12,Vikram Mehta,Gurugram,Grocery,Rice,9,820,1.62
+ORD10125,2025-10-06,Sneha Patel,Gurugram,Electronics,Headphones,5,14720,22.09
+ORD10126,2025-02-13,Neha Gupta,Noida,Electronics,Tablet,5,24740,24.71
+ORD10127,2025-03-10,Vikram Mehta,Hyderabad,Clothing,Jeans,2,2510,16.85
+ORD10128,2025-05-31,Amit Kumar,Kolkata,Grocery,Rice,5,850,6.35
+ORD10129,2025-05-07,Rahul Singh,Mumbai,Furniture,Study Table,4,9710,7.03
+ORD10130,2025-02-03,Vikram Mehta,Pune,Grocery,Cooking Oil,6,2180,12.68
+ORD10131,2025-08-26,Aarav Sharma,Noida,Home Appliances,Refrigerator,6,20250,22.07
+ORD10132,21-01-2025,Amit Kumar,Mumbai,Home Appliances,Mixer Grinder,3,2540,4.74
+ORD10133,2025-07-10,Rohit Yadav,Gurugram,Grocery,Cooking Oil,2,1040,6.5
+ORD10134,2025-11-02,Pooja Shah,Ahmedabad,Electronics,Laptop,6,54790,9.22
+ORD10135,2025-05-11,Aarav Sharma,Kolkata,Home Appliances,Refrigerator,2,60270,22.85
+ORD10136,2025-12-14,Sneha Patel,Gurugram,Electronics,Tablet,4,31740,1.95
+ORD10137,2025-09-05,Priya Verma,Bengaluru,Electronics,Headphones,5,2240,9.88
+ORD10138,2025-02-16,Rahul Singh,Bengaluru,Grocery,Cooking Oil,9,1560,10.24
+ORD10139,2025-01-27,Amit Kumar,Lucknow,Furniture,Bookshelf,4,10150,8.93
+ORD10140,2025-11-26,Neha Gupta,Bengaluru,Clothing,T-Shirt,3,1710,5.09
+ORD10141,2025-08-05,Priya Verma,,Electronics,Headphones,2,6570,22.07
+ORD10142,2025-01-08,Aarav Sharma,Chennai,Clothing,Jeans,2,1270,20.16
+ORD10143,2025-11-15,Sneha Patel,Lucknow,Clothing,T-Shirt,5,1310,3.65
+ORD10144,2025-03-29,Priya Verma,Noida,Furniture,Study Table,5,12670,18.84
+ORD10145,2025-01-23,Anjali Rao,Ahmedabad,Home Appliances,Microwave,2,7800,23.15
+ORD10146,2025-11-14,Rahul Singh,Jaipur,Clothing,T-Shirt,6,1810,5.55
+ORD10147,2025-04-04,Pooja Shah,Mumbai,Clothing,Jeans,4,1010,23.46
+ORD10148,2025-03-05,Rahul Singh,Mumbai,Home Appliances,Mixer Grinder,3,7820,20.39
+ORD10149,2025-12-11,Aarav Sharma,Jaipur,Home Appliances,Refrigerator,5,66100,2.94
+ORD10150,2025-11-18,Amit Kumar,Jaipur,Grocery,Coffee,9,860,14.57
+ORD10151,2025-07-08,Anjali Rao,Chennai,Clothing,Shoes,6,4400,0.58
+ORD10152,2025-05-01,Anjali Rao,Kolkata,Grocery,Coffee,8,1440,11.46
+ORD10153,2025-02-24,Priya Verma,Gurugram,Home Appliances,Mixer Grinder,4,4020,9.13
+ORD10154,2025-11-22,Rahul Singh,Noida,Clothing,T-Shirt,1,2060,7.84
+ORD10155,2025-09-16,Vikram Mehta,Jaipur,Grocery,Rice,1,1740,3.4
+ORD10156,2025-03-09,Anjali Rao,Pune,Electronics,Laptop,2,88050,22.9
+ORD10157,2025-06-29,Pooja Shah,Pune,Home Appliances,Washing Machine,1,24670,22.41
+ORD10158,2025-05-11,Rohit Yadav,Hyderabad,Furniture,Sofa,2,28830,6.57
+ORD10538,2025-03-12,Aarav Sharma,Pune,Electronics,Tablet,4,15060,14.69
+ORD10160,28-03-2025,Amit Kumar,Noida,Furniture,Bookshelf,4,12870,1.21
+ORD10161,2025-09-24,Pooja Shah,Lucknow,Furniture,Sofa,5,63890,2.62
+ORD10162,16/05/2025,Vikram Mehta,Ahmedabad,Grocery,Coffee,6,1120,9.01
+ORD10163,2025-04-01,Pooja Shah,Lucknow,Electronics,Headphones,2,14400,7.41
+ORD10164,2025-11-24,Pooja Shah,Jaipur,Grocery,Tea,5,1090,18.33
+ORD10165,2025-05-29,Pooja Shah,Jaipur,Electronics,Smartphone,2,37070,12.82
+ORD10166,2025-04-27,Pooja Shah,Jaipur,Electronics,Smartphone,4,14640,1.36
+ORD10167,2025-02-24,Rohit Yadav,Ahmedabad,Grocery,Tea,5,710,10.33
+ORD10168,2025-07-07,Pooja Shah,Hyderabad,Furniture,Study Table,2,8170,0.35
+ORD10169,2025-02-19,Priya Verma,jaipur,Home Appliances,Washing Machine,4,24080,16.64
+ORD10170,2025-01-06,Aarav Sharma,Jaipur,Furniture,Sofa,3,60690,22.32
+ORD10171,2025-09-23,Anjali Rao,Mumbai,Grocery,Coffee,10,450,0.01
+ORD10172,2025-04-06,Neha Gupta,Gurugram,Electronics,Laptop,4,47630,19.47
+ORD10173,2025-07-31,Neha Gupta,Chennai,Electronics,Smartphone,2,47270,12.67
+ORD10174,2025-06-08,Priya Verma,Pune,Clothing,Jeans,5,2530,24.85
+ORD10175,2025-08-12,Anjali Rao,Noida,Clothing,T-Shirt,4,1740,11.31
+ORD10176,2025-04-29,Aarav Sharma,Noida,Home Appliances,Refrigerator,3,38450,18.74
+ORD10177,2025-11-22,Rohit Yadav,Jaipur,Furniture,Office Chair,3,10690,19.71
+ORD10178,2025-11-25,Neha Gupta,Noida,Grocery,Tea,5,1070,0.38
+ORD10179,2025-04-14,Rahul Singh,Lucknow,Furniture,Study Table,6,23300,4.8
+ORD10180,2025-05-03,Vikram Mehta,Jaipur,Clothing,Jacket,5,6130,24.54
+ORD10936,2025-12-05,Sneha Patel,Kolkata,Grocery,Coffee,7,860,4.29
+ORD10182,2025-07-20,Pooja Shah,,Grocery,Tea,4,230,22.77
+ORD10183,2025-02-27,Priya Verma,Kolkata,Home Appliances,Refrigerator,1,71090,8.62
+ORD10184,2025-01-22,Rahul Singh,Lucknow,Home Appliances,Refrigerator,1,55390,1.07
+ORD10185,2025-10-30,Sneha Patel,Mumbai,Electronics,Laptop,1,81790,20.49
+ORD10186,2025-05-07,Neha Gupta,Mumbai,Electronics,Headphones,1,2390,0.86
+ORD10187,2025-02-21,Rahul Singh,Noida,Electronics,Tablet,4,37720,16.16
+ORD10188,2025-08-05,Amit Kumar,Delhi,Furniture,Bookshelf,3,7240,23.25
+ORD10189,05-11-2025,Rohit Yadav,Hyderabad,Electronics,Tablet,3,39800,15.46
+ORD10190,2025-08-12,Rohit Yadav,Noida,Electronics,Headphones,1,5720,17.62
+ORD10191,2025-10-22,Amit Kumar,Gurugram,Grocery,Cooking Oil,2,1020,
+ORD10192,2025-06-28,Anjali Rao,Noida,Furniture,Office Chair,1,11610,19.92
+ORD10193,2025-06-27,Rohit Yadav,Pune,Home Appliances,Mixer Grinder,5,5380,3.97
+ORD10194,2025-03-26,Priya Verma,Jaipur,Home Appliances,Washing Machine,4,50210,12.26
+ORD10195,2025-07-02,Priya Verma,Bengaluru,Grocery,Rice,6,1710,22.3
+ORD10196,2025-01-13,Sneha Patel,Mumbai,Electronics,Headphones,6,5100,10.7
+ORD10197,2025-11-19,Neha Gupta,Hyderabad,Grocery,Cooking Oil,7,370,14.85
+ORD10198,2025-10-25,Sneha Patel, Chennai,Grocery,Rice,6,700,21.08
+ORD10199,2025-08-26,Anjali Rao,Lucknow,Grocery,Tea,3,960,14.48
+ORD10200,2025-11-26,Neha Gupta,Chennai,Home Appliances,Microwave,4,9870,7.54
+ORD10201,2025-05-07,Sneha Patel,Kolkata,Grocery,Cooking Oil,3,1200,4.02
+ORD10202,2025-02-22,Rahul Singh,Jaipur,Furniture,Study Table,3,7030,9.61
+ORD10203,2025-06-02,Vikram Mehta,Pune,Home Appliances,Microwave,6,9940,15.95
+ORD10204,2025-07-18,Anjali Rao,Delhi,Electronics,Tablet,2,10440,21.36
+ORD10205,2025-11-20,Amit Kumar,Hyderabad,Clothing,Jeans,5,960,6.43
+ORD10206,2025-05-05,Vikram Mehta,Lucknow,Clothing,T-Shirt,6,1430,18.73
+ORD10207,2025-12-01,Pooja Shah,Mumbai,Clothing,Jeans,6,2670,16.04
+ORD10208,2025-05-14,Priya Verma,Bengaluru,Clothing,Shoes,3,2970,10.0
+ORD10209,2025-09-05,Anjali Rao,Delhi,Home Appliances,Microwave,4,16320,10.23
+ORD10210,2025-07-19,Anjali Rao,Noida,Home Appliances,Microwave,1,7570,13.58
+ORD10211,2025-06-28,Priya Verma,Kolkata,Home Appliances,Washing Machine,5,37180,5.12
+ORD10212,2025-07-09,Rohit Yadav,,Clothing,T-Shirt,6,1140,23.7
+ORD10213,2025-09-21,Priya Verma,Lucknow,Home Appliances,Washing Machine,4,59350,8.89
+ORD10214,2025-07-15,Vikram Mehta,Delhi,Electronics,Tablet,3,10470,10.46
+ORD10215,2025-05-16,Priya Verma,Mumbai,Clothing,Jacket,5,3230,10.01
+ORD10216,2025-08-25,Neha Gupta,Gurugram,Grocery,Cooking Oil,7,370,19.42
+ORD10217,2025-10-15,Neha Gupta,Gurugram,Home Appliances,Mixer Grinder,6,3990,
+ORD10218,2025-10-08,Rahul Singh,Hyderabad,Clothing,Shoes,3,3790,21.27
+ORD10219,2025-05-10,Vikram Mehta,Jaipur,Furniture,Sofa,6,27670,0.07
+ORD10220,2025-12-02,Amit Kumar,Ahmedabad,Furniture,Bookshelf,2,8970,10.71
+ORD10221,2025-06-05,Vikram Mehta,Delhi,Electronics,Tablet,2,12980,14.11
+ORD10222,2025-06-26,Pooja Shah,Delhi,Furniture,Study Table,5,18150,5.24
+ORD10223,2025-11-08,Priya Verma,Kolkata,Electronics,Tablet,3,15000,5.84
+ORD10224,2025-04-17,Vikram Mehta,Chennai,Clothing,Jacket,2,2590,22.28
+ORD10225,2025-11-22,Amit Kumar,Mumbai,Grocery,Rice,9,1140,5.33
+ORD10226,2025-03-01,Rohit Yadav,Noida,Electronics,Headphones,6,4560,5.85
+ORD10227,2025-10-13,Aarav Sharma,Hyderabad,Home Appliances,Mixer Grinder,4,4700,3.61
+ORD10228,2025-03-26,Rohit Yadav,Kolkata,Clothing,Jeans,4,3140,0.17
+ORD10229,2025-10-16,Anjali Rao,Jaipur,Furniture,Sofa,6,33430,11.64
+ORD10230,2025-02-08,Rahul Singh,Jaipur,Clothing,Shoes,6,3830,16.16
+ORD10231,2025-06-19,Priya Verma,Chennai,Electronics,Laptop,6,66790,18.93
+ORD10232,2025-08-01,Rahul Singh,Ahmedabad,Home Appliances,Refrigerator,2,25200,16.48
+ORD10233,2025-10-11,Neha Gupta,Pune,Furniture,Sofa,5,40630,10.56
+ORD10234,2025-05-30,Sneha Patel,Hyderabad,Grocery,Rice,5,1020,12.59
+ORD10235,2025-12-02,Anjali Rao,Noida,Furniture,Bookshelf,2,6970,7.93
+ORD10236,2025-11-22,Priya Verma,Delhi,Furniture,Study Table,5,12980,13.86
+ORD10237,2025-06-03,Priya Verma,Delhi,Clothing,T-Shirt,4,480,20.55
+ORD10238,2025-10-06,Pooja Shah,Bengaluru,Clothing,T-Shirt,5,1510,15.67
+ORD10239,2025-01-21,Anjali Rao,Jaipur,Grocery,Rice,4,1490,2.53
+ORD10240,2025-02-21,Aarav Sharma,Ahmedabad,Home Appliances,Refrigerator,4,67960,3.47
+ORD10241,2025-04-05,Vikram Mehta,Delhi,Furniture,Bookshelf,3,6800,10.77
+ORD10242,2025-10-18,Rohit Yadav,Delhi,Grocery,Rice,8,1570,19.34
+ORD10243,2025-02-04,Aarav Sharma,Jaipur,Clothing,Shoes,4,4030,14.8
+ORD10244,2025-10-08,Priya Verma,Noida,Home Appliances,Mixer Grinder,4,5800,5.31
+ORD10245,2025-01-03,Aarav Sharma,Jaipur,Home Appliances,Refrigerator,4,56820,24.67
+ORD10246,2025-03-08,Anjali Rao,Delhi,Electronics,Smartphone,1,27980,14.22
+ORD10247,2025-07-07,Rahul Singh,Lucknow,Clothing,Jeans,1,2870,7.33
+ORD10248,2025-12-09,Amit Kumar,DELHI,Grocery,Coffee,8,1340,0.29
+ORD10249,2025-06-09,Amit Kumar,Lucknow,Electronics,Laptop,4,72010,23.94
+ORD10250,2025-07-08,Pooja Shah,Lucknow,Clothing,T-Shirt,3,1190,16.92
+ORD10251,2025-11-27,Rahul Singh,Jaipur,Home Appliances,Refrigerator,3,64100,11.92
+ORD10252,2025-06-20,Amit Kumar,Pune,Clothing,Jacket,5,2080,24.35
+ORD10253,2025-01-08,Rahul Singh,Kolkata,Grocery,Tea,10,1020,14.62
+ORD10254,2025-12-17,Vikram Mehta,Kolkata,Home Appliances,Mixer Grinder,4,6580,5.86
+ORD10255,2025-01-01,,Pune,Clothing,Jacket,6,3060,3.93
+ORD10256,2025-10-20,Rahul Singh,Pune,Electronics,Tablet,2,44140,19.93
+ORD10907,2025-11-21,Rohit Yadav,Delhi,Grocery,Coffee,5,1320,23.67
+ORD10258,2025-11-07,Aarav Sharma,Jaipur,Home Appliances,Washing Machine,3,34610,17.71
+ORD10259,2025-08-24,Rohit Yadav,Noida,Furniture,Office Chair,4,12350,8.88
+ORD10260,2025-10-24,Rohit Yadav,Pune,Electronics,Smartphone,4,63340,13.05
+ORD10261,2025-04-19,Neha Gupta,Noida,Clothing,Jeans,2,1370,17.53
+ORD10262,2025-09-22,Rahul Singh,Mumbai,Furniture,Bookshelf,4,3100,24.93
+ORD10263,2025-11-20,Anjali Rao,NOIDA,Furniture,Office Chair,3,6080,14.93
+ORD10264,2025-11-07,Aarav Sharma,Noida,Furniture,Bookshelf,5,2950,24.76
+ORD10265,2025-10-18,Neha Gupta,Pune ,Grocery,Coffee,10,1680,7.0
+ORD10266,2025-11-08,Rahul Singh,Pune,Electronics,Headphones,5,12780,8.47
+ORD10267,2025-01-15,Aarav Sharma,Delhi,Home Appliances,Mixer Grinder,1,5260,
+ORD10268,2025-11-03,Vikram Mehta,Noida,Clothing,Shoes,1,6360,2.25
+ORD10269,2025-02-15,Rohit Yadav,Bengaluru,Furniture,Study Table,6,8650,21.24
+ORD10270,2025-04-24,Rahul Singh,Delhi,Furniture,Study Table,6,23830,23.53
+ORD10271,2025-05-13,Rohit Yadav,Lucknow,Electronics,Laptop,1,78280,19.04
+ORD10272,2025-03-16,Sneha Patel,,Clothing,T-Shirt,1,2090,16.92
+ORD10273,2025-02-23,Anjali Rao,Ahmedabad,Furniture,Sofa,6,37330,9.75
+ORD10274,2025-03-28,Anjali Rao,Mumbai,Furniture,Sofa,4,59990,22.86
+ORD10275,2025-04-10,Aarav Sharma,Gurugram,Electronics,Headphones,6,13970,5.51
+ORD10276,2025-08-17,Priya Verma,Bengaluru,Grocery,Tea,3,1030,15.71
+ORD10277,2025-04-30,Anjali Rao,Noida,Clothing,Jacket,3,4750,3.57
+ORD10278,2025-08-20,Rohit Yadav,Gurugram,Home Appliances,Refrigerator,2,44140,3.73
+ORD10279,2025-03-21,Aarav Sharma,Pune,Clothing,Shoes,2,5370,7.41
+ORD10280,2025-02-25,Sneha Patel,Hyderabad,Home Appliances,Microwave,4,20550,2.85
+ORD10281,2025-10-14,Anjali Rao,Pune,Grocery,Rice,4,650,18.87
+ORD10282,2025-05-03,Neha Gupta,Noida,Furniture,Sofa,3,38290,10.39
+ORD10283,2025-05-31,Rahul Singh,Jaipur,Home Appliances,Refrigerator,6,20880,20.18
+ORD10284,2025-01-01,Rohit Yadav,Pune,Furniture,Study Table,4,8720,10.88
+ORD10285,2025-10-20,Rahul Singh,Gurugram,Clothing,Jeans,3,3090,13.04
+ORD10286,2025-11-04,Priya Verma,Noida,Home Appliances,Washing Machine,2,55350,18.27
+ORD10287,2025-03-12,,Jaipur,Furniture,Study Table,2,19160,20.29
+ORD10288,2025-01-06,Priya Verma,Lucknow,Grocery,Tea,4,920,10.2
+ORD10289,2025-05-25,Anjali Rao,Noida,Electronics,Tablet,3,10540,22.76
+ORD10290,2025-05-17,Neha Gupta,Gurugram,Clothing,Jeans,6,2360,24.64
+ORD10291,2025-07-10,Pooja Shah,Kolkata,Electronics,Smartphone,6,61770,8.9
+ORD10292,2025-07-02,Neha Gupta,Ahmedabad,Clothing,T-Shirt,1,1800,21.7
+ORD10293,2025-02-25,Anjali Rao,Hyderabad,Grocery,Rice,5,1170,13.26
+ORD10294,2025-05-05,Priya Verma,Mumbai,Grocery,Cooking Oil,1,1400,4.2
+ORD10295,2025-01-16,Aarav Sharma,Noida,Furniture,Bookshelf,5,15010,18.47
+ORD10296,2025-11-23,Pooja Shah,Hyderabad,Furniture,Office Chair,5,12130,17.57
+ORD10297,2025-04-02,Aarav Sharma,Pune,Electronics,Tablet,1,14310,12.34
+ORD10298,2025-03-04,Priya Verma,Bengaluru,Grocery,Tea,2,1080,13.54
+ORD10299,2025-12-09,,Hyderabad,Home Appliances,Washing Machine,2,49360,4.11
+ORD10300,2025-08-04,Pooja Shah,Kolkata,Electronics,Headphones,6,8260,9.89
+ORD10301,2025-07-25,Neha Gupta,Ahmedabad,Electronics,Tablet,3,35040,21.08
+ORD10302,15/10/2025,Aarav Sharma,Ahmedabad,Grocery,Tea,7,690,23.95
+ORD10303,2025-12-06,Aarav Sharma,Ahmedabad,Furniture,Study Table,4,7180,4.69
+ORD10304,2025-09-16,Aarav Sharma,Mumbai,Furniture,Sofa,2,25250,
+ORD10305,2025-01-18,Pooja Shah,Pune,Clothing,T-Shirt,1,2050,15.59
+ORD10306,2025-02-21,Amit Kumar,Noida,Grocery,Rice,10,1180,10.84
+ORD10307,2025-06-06,Sneha Patel,Jaipur,Electronics,Tablet,1,15840,1.51
+ORD10308,2025-08-27,Pooja Shah,Chennai,Grocery,Tea,2,1130,11.0
+ORD10309,2025-07-28,Pooja Shah,Pune,Grocery,Cooking Oil,5,680,18.4
+ORD10310,2025-11-09,Pooja Shah,Mumbai,Grocery,Tea,8,830,5.03
+ORD10311,2025-06-05,Pooja Shah,Hyderabad,Furniture,Sofa,5,42390,7.76
+ORD10312,07/04/2025,Rohit Yadav,Chennai,Home Appliances,Microwave,2,12750,14.64
+ORD10313,2025-05-03,Sneha Patel,Chennai ,Electronics,Tablet,2,21390,6.75
+ORD10314,2025-01-12,Rahul Singh,Chennai,Home Appliances,Microwave,1,8000,21.78
+ORD10315,2025-07-18,Anjali Rao,Ahmedabad,Clothing,T-Shirt,5,1720,2.73
+ORD10316,2025-06-22,Sneha Patel,Gurugram,Home Appliances,Washing Machine,4,46360,15.41
+ORD10317,2025-09-01,Amit Kumar,Jaipur,Furniture,Office Chair,6,15190,22.87
+ORD10318,2025-01-03,Vikram Mehta,Chennai,Home Appliances,Mixer Grinder,1,5430,12.45
+ORD10319,2025-05-24,Pooja Shah,Kolkata,Grocery,Cooking Oil,7,330,21.29
+ORD10320,2025-06-30,Amit Kumar,Ahmedabad,Clothing,Jacket,6,3640,13.88
+ORD10321,2025-09-13,Vikram Mehta,Hyderabad,Clothing,Jacket,1,3210,13.42
+ORD10322,2025-07-13,Pooja Shah,Mumbai,Home Appliances,Mixer Grinder,5,2350,23.0
+ORD10323,2025-04-15,Vikram Mehta,Delhi,Furniture,Study Table,3,5510,6.41
+ORD10324,2025-06-09,Rohit Yadav,Kolkata,Clothing,Jacket,5,6490,12.94
+ORD10325,2025-08-26,Sneha Patel,Delhi,Grocery,Coffee,7,1140,8.78
+ORD10326,2025-04-28,Priya Verma,Bangalore,Electronics,Laptop,5,61850,10.02
+ORD10327,2025-08-04,Anjali Rao,Bengaluru,Grocery,Cooking Oil,4,1020,15.62
+ORD10328,2025-02-17,Rahul Singh,Ahmedabad,Grocery,Tea,9,480,24.46
+ORD10329,2025-12-02,Amit Kumar,Lucknow,Furniture,Study Table,1,11870,23.38
+ORD10330,2025-09-26,Amit Kumar,Chennai,Grocery,Coffee,3,520,22.33
+ORD10331,2025-11-19,Pooja Shah,Kolkata,Clothing,Jeans,1,1180,14.25
+ORD10332,2025-01-02,Amit Kumar,Lucknow,Electronics,Headphones,1,10610,0.1
+ORD10333,2025-10-28,Aarav Sharma,Jaipur,Furniture,Sofa,1,19540,4.38
+ORD10334,2025-09-21,Rahul Singh,Kolkata,Grocery,Tea,9,360,15.04
+ORD10335,2025-09-18,Priya Verma,Delhi,Home Appliances,Washing Machine,5,22200,
+ORD10336,2025-11-10,Vikram Mehta,Delhi,Grocery,Coffee,8,1230,17.11
+ORD10337,2025-05-02,Sneha Patel,Pune,Grocery,Tea,3,330,6.67
+ORD10338,2025-04-09,Anjali Rao,Kolkata,Electronics,Laptop,3,"₹62,350",1.37
+ORD10339,2025-01-28,Pooja Shah,Mumbai,Clothing,T-Shirt,4,850,1.1
+ORD10340,2025-01-04,Anjali Rao,Pune,Grocery,Cooking Oil,6,980,6.3
+ORD10341,2025-12-13,Vikram Mehta,Jaipur,Clothing,T-Shirt,2,1690,5.53
+ORD10342,2025-09-06,Aarav Sharma,Mumbai,Furniture,Sofa,6,22550,4.25
+ORD10343,2025-05-29,Vikram Mehta,Chennai,Clothing,Jeans,1,1840,8.38
+ORD10344,2025-11-30,Priya Verma,Noida,Clothing,Jacket,4,3780,22.82
+ORD10345,2025-04-08,Anjali Rao,,Grocery,Cooking Oil,7,820,10.89
+ORD10346,2025-03-21,Neha Gupta,Lucknow,Furniture,Office Chair,3,5640,4.91
+ORD10347,2025-08-15,Anjali Rao,Mumbai,Grocery,Cooking Oil,9,430,8.82
+ORD10348,2025-10-25,Neha Gupta,Pune,Clothing,Shoes,6,8140,12.62
+ORD10349,2025-03-09,Amit Kumar,Kolkata,Home Appliances,Mixer Grinder,6,7380,14.69
+ORD10350,2025-11-08,Rohit Yadav, Mumbai,Furniture,Study Table,4,7510,18.77
+ORD10351,2025-05-19,Vikram Mehta,Delhi,Grocery,Rice,9,1350,14.19
+ORD10352,2025-12-30,Priya Verma,Lucknow,Furniture,Office Chair,4,6420,21.28
+ORD10353,2025-02-25,Priya Verma,Chennai,Furniture,Study Table,6,23280,20.13
+ORD10354,2025-06-09,Priya Verma,Mumbai,Furniture,Study Table,1,10770,20.42
+ORD10355,2025-07-26,,Jaipur,Clothing,Jacket,3,5950,21.53
+ORD10356,2025-01-16,Sneha Patel,Jaipur,Home Appliances,Microwave,2,18990,17.27
+ORD10357,2025-12-27,Anjali Rao,Mumbai,Clothing,T-Shirt,6,2200,10.01
+ORD10358,2025-02-28,Amit Kumar,Kolkata,Electronics,Smartphone,3,54580,17.81
+ORD10359,2025-11-08,Rahul Singh,Bengaluru,Electronics,Headphones,1,3610,7.58
+ORD10360,2025-06-09,Rahul Singh,Kolkata,Clothing,T-Shirt,5,1910,14.25
+ORD10361,2025-12-10,Pooja Shah,Ahmedabad,Grocery,Tea,7,1130,2.8
+ORD10362,2025-11-07,Aarav Sharma,Mumbai,Furniture,Office Chair,5,14740,0.93
+ORD10363,2025-02-14,Vikram Mehta,Lucknow,Furniture,Study Table,3,19880,24.95
+ORD10364,2025-09-27,Priya Verma,Ahmedabad,Grocery,Cooking Oil,5,2090,10.6
+ORD10365,2025-01-28,Neha Gupta,Bengaluru,Furniture,Sofa,5,53000,21.16
+ORD10366,2025-01-23,Rohit Yadav,Pune,Home Appliances,Mixer Grinder,2,2880,4.09
+ORD10367,2025-01-31,Rahul Singh,Ahmedabad,Home Appliances,Microwave,2,12210,2.31
+ORD10368,2025-12-18,Anjali Rao,Jaipur,Furniture,Study Table,2,14660,17.64
+ORD10369,2025-11-25,Sneha Patel,Lucknow,Electronics,Headphones,2,5050,22.12
+ORD10370,2025-11-19,Priya Verma,Chennai,Home Appliances,Washing Machine,3,35830,23.53
+ORD10371,2025-04-16,Priya Verma,Lucknow,Home Appliances,Mixer Grinder,4,3590,9.01
+ORD10372,2025-05-24,Amit Kumar,Mumbai,Home Appliances,Refrigerator,1,26080,7.72
+ORD10373,2025-08-16,Anjali Rao,Kolkata,Electronics,Smartphone,3,33050,4.2
+ORD10699,2025-03-11,Pooja Shah,Lucknow,Clothing,T-Shirt,4,870,6.9
+ORD10375,2025-11-27,Anjali Rao,Bengaluru,Grocery,Tea,2,660,19.6
+ORD10376,2025-02-16,Amit Kumar,Jaipur,Furniture,Office Chair,3,13620,18.27
+ORD10377,2025-03-12,Aarav Sharma,Delhi,Furniture,Study Table,1,20490,20.99
+ORD10378,2025-11-23,Rohit Yadav,Jaipur,Furniture,Bookshelf,2,4770,19.62
+ORD10379,2025-04-05,Sneha Patel,Ahmedabad,Furniture,Bookshelf,4,5610,3.41
+ORD10380,2025-01-30,Aarav Sharma,Noida,Furniture,Bookshelf,2,10150,15.71
+ORD10381,2025-09-11,Vikram Mehta,Hyderabad,Clothing,T-Shirt,2,1720,24.89
+ORD10382,2025-12-19,Neha Gupta,Gurugram,Grocery,Rice,3,680,15.92
+ORD10383,2025-08-14,Anjali Rao,Mumbai,Clothing,T-Shirt,1,790,9.31
+ORD10384,2025-05-26,Priya Verma,Jaipur,Electronics,Headphones,2,1590,17.77
+ORD10385,2025-01-05,Rahul Singh,Lucknow,Furniture,Office Chair,4,6210,7.39
+ORD10386,2025-04-11,Anjali Rao,Noida,Clothing,Jacket,5,4350,12.92
+ORD10387,2025-11-08,Pooja Shah,Noida,Clothing,Jeans,4,3010,1.5
+ORD10388,2025-10-20,Vikram Mehta,Ahmedabad,Furniture,Bookshelf,5,8990,16.18
+ORD10389,2025-11-21,Aarav Sharma,Mumbai,Furniture,Bookshelf,5,5500,18.49
+ORD10390,2025-10-24,Sneha Patel,Chennai,Electronics,Smartphone,6,45680,10.41
+ORD10391,2025-08-14,Vikram Mehta,Pune,Grocery,Cooking Oil,10,340,4.51
+ORD10392,2025-05-10,Priya Verma,Mumbai,Home Appliances,Refrigerator,2,49190,6.29
+ORD10393,2025-08-23,Neha Gupta,Chennai,Clothing,Jeans,5,2390,2.83
+ORD10394,2025-12-14,Priya Verma,Hyderabad,Grocery,Rice,7,670,12.58
+ORD10395,2025-02-22,Anjali Rao,Jaipur,Grocery,Rice,9,1010,4.28
+ORD10396,2025-03-12,Sneha Patel,Kolkata,Home Appliances,Mixer Grinder,1,2160,5.92
+ORD10397,2025-12-26,Pooja Shah,Mumbai,Furniture,Office Chair,1,11090,3.01
+ORD10398,2025-11-15,Neha Gupta,Kolkata,Home Appliances,Mixer Grinder,1,2510,18.21
+ORD10399,2025-06-24,Aarav Sharma,Pune,Furniture,Study Table,3,7450,9.33
+ORD10400,2025-01-23,Pooja Shah,Ahmedabad,Grocery,Tea,8,250,13.72
+ORD10401,2025-12-12,Neha Gupta,Pune,Grocery,Rice,1,960,17.35
+ORD10402,2025-01-11,Anjali Rao,Noida,Electronics,Headphones,1,1850,6.46
+ORD10403,2025-12-09,Vikram Mehta,Gurugram,Home Appliances,Microwave,6,15820,6.26
+ORD10404,2025-01-13,Sneha Patel,Gurugram,Furniture,Sofa,1,43330,12.1
+ORD10405,2025-04-04,Pooja Shah,Jaipur,Electronics,Laptop,1,75580,9.81
+ORD10406,2025-08-18,Vikram Mehta,Mumbai,Clothing,Jeans,6,3170,15.27
+ORD10407,2025-09-28,Neha Gupta,Pune,Electronics,Tablet,3,41290,14.73
+ORD10408,2025-07-04,Anjali Rao,ahmedabad,Electronics,Smartphone,2,45470,9.7
+ORD10409,2025-06-21,Pooja Shah,Hyderabad,Furniture,Bookshelf,1,7010,0.51
+ORD10410,2025-03-16,Rahul Singh,Pune,Clothing,T-Shirt,6,1090,1.59
+ORD10411,2025-10-21,Rohit Yadav,Kolkata,Furniture,Bookshelf,5,15420,24.8
+ORD10412,2025-08-07,Pooja Shah,Jaipur,Electronics,Laptop,2,49450,19.8
+ORD10413,2025-02-06,Amit Kumar,Ahmedabad,Home Appliances,Washing Machine,6,49060,12.72
+ORD10414,2025-07-27,Sneha Patel,Delhi,Home Appliances,Microwave,5,17560,16.79
+ORD10415,2025-05-01,Sneha Patel,Gurugram,Clothing,Jacket,2,2440,0.18
+ORD10416,2025-07-22,Pooja Shah,Pune,Clothing,Shoes,4,7990,14.67
+ORD10417,2025-06-07,Amit Kumar,Lucknow,Home Appliances,Microwave,6,15580,16.47
+ORD10418,2025-10-26,Priya Verma,Kolkata,Furniture,Office Chair,2,6450,14.51
+ORD10419,08-Aug-2025,Priya Verma,Hyderabad,Clothing,Jacket,6,3300,4.38
+ORD10420,2025-11-17,Amit Kumar,Mumbai,Furniture,Office Chair,2,15120,5.46
+ORD10421,2025-11-05,Amit Kumar,Chennai,Clothing,Shoes,2,5930,4.92
+ORD10422,2025-01-25,Priya Verma,Noida,Electronics,Smartphone,5,58950,21.89
+ORD10423,2025-04-07,Amit Kumar,Chennai,Furniture,Study Table,1,17850,0.38
+ORD10424,2025-06-14,Sneha Patel,Lucknow,Furniture,Office Chair,2,3950,12.16
+ORD10425,2025-01-30,Vikram Mehta,Delhi,Grocery,Tea,3,240,15.32
+ORD10426,2025-08-26,Aarav Sharma,Delhi,Clothing,Shoes,3,7950,14.1
+ORD10427,2025-11-11,Sneha Patel,Gurugram,Furniture,Office Chair,4,5040,3.9
+ORD10428,2025-07-05,Vikram Mehta,Ahmedabad,Home Appliances,Refrigerator,3,49630,14.71
+ORD10429,2025-10-22,Sneha Patel,Mumbai,Grocery,Cooking Oil,10,1660,6.45
+ORD10430,2025-06-08,Rohit Yadav,Lucknow,Clothing,T-Shirt,6,1220,6.96
+ORD10431,2025-05-10,Aarav Sharma,Chennai,Grocery,Tea,3,650,16.38
+ORD10432,2025-04-27,Vikram Mehta,Noida,Furniture,Study Table,6,23740,15.62
+ORD10433,2025-09-14,Neha Gupta,Chennai,Electronics,Laptop,5,79980,6.48
+ORD10434,2025-04-01,Rahul Singh,Chennai,Grocery,Tea,3,180,19.45
+ORD10435,2025-04-20,Sneha Patel,Bengaluru,Home Appliances,Mixer Grinder,4,4650,8.1
+ORD10279,2025-03-21,Aarav Sharma,Pune,Clothing,Shoes,2,5370,7.41
+ORD10437,2025-10-16,Vikram Mehta,Bengaluru,Furniture,Office Chair,2,18470,9.39
+ORD10438,2025-01-11,Amit Kumar,Lucknow,Home Appliances,Refrigerator,3,43860,5.78
+ORD10439,2025-11-26,Amit Kumar,Pune,Home Appliances,Microwave,4,20190,12.47
+ORD10440,2025-05-17,Rahul Singh,Pune,Grocery,Cooking Oil,8,690,8.29
+ORD10441,2025-06-13,Pooja Shah,KOLKATA,Clothing,Jeans,2,3390,5.3
+ORD10442,2025-07-04,Aarav Sharma,Hyderabad,Electronics,Smartphone,6,22570,21.6
+ORD10443,2025-03-19,Aarav Sharma,Gurugram,Furniture,Office Chair,1,18540,3.77
+ORD10444,2025-08-26,Vikram Mehta,Noida,Furniture,Office Chair,2,10330,
+ORD10445,2025-10-27,Neha Gupta,Mumbai,Clothing,Jacket,1,5520,17.24
+ORD10446,2025-11-01,Neha Gupta,Kolkata,Electronics,Smartphone,5,36970,2.62
+ORD10447,2025-02-03,Priya Verma,Noida,Electronics,Laptop,3,88070,24.26
+ORD10448,2025-04-02,Neha Gupta,Jaipur,Grocery,Coffee,1,1060,15.83
+ORD10449,2025-07-01,Anjali Rao,Noida,Grocery,Rice,9,950,5.38
+ORD10450,2025-12-27,Rahul Singh,Delhi,Home Appliances,Refrigerator,3,34560,1.72
+ORD10451,2025-01-25,Vikram Mehta,Chennai,Electronics,Smartphone,5,67210,6.68
+ORD10452,2025-08-21,Rohit Yadav,Pune,Furniture,Office Chair,6,12560,17.26
+ORD10453,2025-06-12,Rohit Yadav,Bengaluru,Furniture,Sofa,4,37910,3.78
+ORD10454,2025-11-22,Aarav Sharma,Mumbai,Clothing,Shoes,2,5640,23.16
+ORD10455,2025-04-12,Priya Verma,Noida,Furniture,Sofa,2,61840,19.6
+ORD10456,2025-10-13,Sneha Patel,Jaipur,Electronics,Headphones,6,9980,13.72
+ORD10457,2025-01-01,Anjali Rao,Lucknow,Furniture,Sofa,5,51660,11.77
+ORD10458,2025-11-19,Vikram Mehta,Ahmedabad,Furniture,Sofa,2,55030,9.84
+ORD10459,2025-12-04,Sneha Patel,Noida,Grocery,Tea,10,810,13.58
+ORD10460,2025-08-31,Sneha Patel,Chennai,Home Appliances,Microwave,3,15840,14.27
+ORD10461,2025-07-06,Rohit Yadav,Mumbai,Home Appliances,Refrigerator,5,49010,20.33
+ORD10462,2025-12-05,Anjali Rao,Gurugram,Home Appliances,Washing Machine,2,44900,20.69
+ORD10463,2025-07-05,Vikram Mehta,Noida,Electronics,Tablet,4,24350,17.57
+ORD10464,2025-07-02,Rohit Yadav,Chennai,Clothing,T-Shirt,3,940,16.56
+ORD10465,2025-08-17,Priya Verma,Hyderabad,Furniture,Sofa,3,51000,18.27
+ORD10466,2025-12-15,Rahul Singh,Ahmedabad ,Home Appliances,Washing Machine,1,38530,16.51
+ORD10467,2025-06-24,Vikram Mehta,Pune,Grocery,Tea,9,170,5.02
+ORD10468,2025-10-30,Rahul Singh,Pune,Grocery,Tea,1,₹900,6.86
+ORD10469,2025-05-16,Anjali Rao,Noida,Furniture,Bookshelf,2,9590,12.33
+ORD10470,2025-08-05,Amit Kumar,Kolkata,Electronics,Smartphone,2,57300,23.01
+ORD10471,2025-01-22,Amit Kumar,Bengaluru,Clothing,Shoes,3,4350,15.19
+ORD10472,2025-07-17,Pooja Shah,,Furniture,Bookshelf,2,14990,4.79
+ORD10473,2025-12-07,Neha Gupta,Ahmedabad,Grocery,Tea,2,1050,2.0
+ORD10474,2025-09-27,Vikram Mehta,Hyderabad,Clothing,Shoes,4,8030,16.07
+ORD10475,2025-10-16,Anjali Rao,Hyderabad,Electronics,Laptop,5,76540,10.9
+ORD10476,2025-08-14,Vikram Mehta,Hyderabad,Clothing,Jeans,1,1250,18.82
+ORD10477,2025-04-13,Vikram Mehta,Chennai,Electronics,Smartphone,6,14350,17.0
+ORD10478,2025-08-24,Priya Verma,Noida,Grocery,Tea,7,380,1.93
+ORD10479,2025-02-15,Neha Gupta,Kolkata,Electronics,Laptop,4,65440,20.6
+ORD10480,2025-01-29,Rohit Yadav,Lucknow,Home Appliances,Microwave,4,18220,21.09
+ORD10481,2025-11-17,Rahul Singh,Ahmedabad,Home Appliances,Mixer Grinder,1,3870,12.96
+ORD10482,2025-05-21,Rohit Yadav,Pune,Electronics,Smartphone,5,17020,9.59
+ORD10483,2025-08-04,Aarav Sharma,Pune,Furniture,Sofa,5,33830,21.67
+ORD10484,2025-04-14,Rahul Singh,Delhi,Clothing,Jacket,3,2780,16.31
+ORD10485,2025-10-26,Rahul Singh,Ahmedabad,Clothing,Shoes,6,7990,8.54
+ORD10486,2025-06-10,Aarav Sharma,Chennai,Clothing,T-Shirt,6,520,23.79
+ORD10487,2025-04-23,Anjali Rao,Pune,Furniture,Office Chair,3,6810,5.23
+ORD10488,2025-08-16,Neha Gupta,Mumbai,Grocery,Coffee,7,270,10.84
+ORD10489,2025-02-06,Pooja Shah,Hyderabad,Electronics,Laptop,2,53110,23.06
+ORD10490,2025-04-24,Amit Kumar,Mumbai,Grocery,Cooking Oil,8,1220,3.97
+ORD10491,2025-02-18,Neha Gupta,Noida,Home Appliances,Refrigerator,4,72300,10.37
+ORD10492,2025-08-06,Rahul Singh,Delhi,Furniture,Sofa,6,66040,3.33
+ORD10493,2025-04-30,Pooja Shah,Ahmedabad,Home Appliances,Mixer Grinder,3,6180,17.98
+ORD10494,2025-10-08,Neha Gupta,Gurugram,Furniture,Bookshelf,3,15270,16.63
+ORD10495,2025-06-17,Vikram Mehta,Gurugram,Home Appliances,Mixer Grinder,1,5770,5.58
+ORD10496,2025-08-26,Rahul Singh,Lucknow,Grocery,Rice,4,740,8.33
+ORD10497,2025-06-30,Priya Verma,Jaipur,Clothing,T-Shirt,1,2060,24.9
+ORD10498,2025-09-08,Sneha Patel,Delhi,Grocery,Rice,5,1480,12.41
+ORD10499,2025-05-24,Amit Kumar,Kolkata,Electronics,Smartphone,4,45870,18.91
+ORD10500,2025-05-19,Neha Gupta,Kolkata,Home Appliances,Washing Machine,4,56830,0.81
+ORD10501,2025-06-26,Neha Gupta,gurugram,Grocery,Rice,1,1350,1.25
+ORD10502,2025-09-04,Neha Gupta,Ahmedabad,Furniture,Bookshelf,4,12520,4.47
+ORD10503,2025-10-14,Anjali Rao,Noida,Furniture,Office Chair,6,15820,2.82
+ORD10504,2025-01-19,Aarav Sharma,Delhi,Home Appliances,Mixer Grinder,4,4980,2.43
+ORD10505,2025-06-30,Priya Verma,Ahmedabad,Home Appliances,Mixer Grinder,5,6310,18.36
+ORD10506,2025-02-16,Sneha Patel,Delhi,Furniture,Study Table,6,21850,21.84
+ORD10507,2025-05-14,Priya Verma,Noida,Clothing,Jacket,2,5930,2.93
+ORD10508,2025-10-05,Priya Verma,Ahmedabad,Clothing,Jacket,5,4000,4.1
+ORD10509,2025-05-12,Sneha Patel,Mumbai,Grocery,Rice,9,870,13.88
+ORD10510,2025-10-01,Rohit Yadav,Mumbai,Home Appliances,Washing Machine,6,55410,0.38
+ORD10511,2025-10-20,Neha Gupta,Lucknow,Electronics,Headphones,6,11360,2.18
+ORD10512,2025-01-16,Vikram Mehta,Bengaluru,Home Appliances,Washing Machine,3,44220,
+ORD10513,2025-12-06,Pooja Shah,Mumbai,Grocery,Rice,2,800,14.88
+ORD10514,2025-02-07,Pooja Shah,Ahmedabad,Grocery,Rice,4,1780,1.03
+ORD10515,2025-06-25,Priya Verma,Hyderabad,Grocery,Cooking Oil,5,1340,4.57
+ORD10516,2025-01-17,Priya Verma,Mumbai,Furniture,Sofa,4,25700,12.78
+ORD10517,2025-03-13,Neha Gupta,Mumbai,Home Appliances,Washing Machine,3,56850,17.15
+ORD10518,2025-01-20,Anjali Rao,Chennai,Electronics,Laptop,4,80070,22.7
+ORD10519,17-11-2025,Aarav Sharma,Ahmedabad,Grocery,Rice,4,1520,2.31
+ORD10520,2025-12-11,Anjali Rao,Gurugram,Furniture,Study Table,4,10190,17.34
+ORD10521,2025-08-27,Pooja Shah,Gurugram,Furniture,Office Chair,6,10680,20.63
+ORD10522,2025-09-30,Priya Verma,Noida,Grocery,Tea,10,1170,19.69
+ORD10523,2025-04-12,Pooja Shah,Hyderabad,Furniture,Study Table,2,16230,21.94
+ORD10524,2025-12-06,Vikram Mehta,Jaipur,Grocery,Rice,7,1390,23.54
+ORD10525,2025-04-27,Sneha Patel,Jaipur,Clothing,Shoes,1,5540,20.91
+ORD10526,2025-09-08,Pooja Shah,,Furniture,Office Chair,3,19190,21.96
+ORD10527,2025-11-06,Amit Kumar,Hyderabad,Clothing,Shoes,4,2260,13.64
+ORD10528,2025-08-27,Pooja Shah,Delhi,Electronics,Tablet,4,20220,2.2
+ORD10529,2025-08-15,Vikram Mehta,Jaipur,Furniture,Study Table,6,15760,6.04
+ORD10530,2025-04-05,Vikram Mehta,Pune,Home Appliances,Refrigerator,4,38300,3.77
+ORD10531,2025-11-09,Vikram Mehta,Pune,Home Appliances,Washing Machine,3,38990,23.89
+ORD10532,2025-07-20,Rohit Yadav,Delhi,Grocery,Cooking Oil,3,100,4.38
+ORD10533,2025-12-03,Amit Kumar,Lucknow,Home Appliances,Mixer Grinder,5,3980,2.52
+ORD10534,2025-05-10,Vikram Mehta,Noida,Grocery,Coffee,3,1010,8.28
+ORD10535,2025-06-06,Vikram Mehta,Chennai,Furniture,Bookshelf,3,13420,1.49
+ORD10536,2025-12-21,Aarav Sharma,Delhi,Clothing,Shoes,3,7590,22.2
+ORD10537,2025-06-09,Rohit Yadav,Gurugram,Electronics,Headphones,4,11150,18.75
+ORD10538,2025-03-12,Aarav Sharma,Pune,Electronics,Tablet,4,15060,14.69
+ORD10539,2025-03-30,Pooja Shah,Jaipur,Grocery,Rice,7,1780,15.68
+ORD10540,2025-01-14,Vikram Mehta,,Home Appliances,Microwave,5,21670,16.22
+ORD10541,2025-07-04,Amit Kumar,AHMEDABAD,Clothing,Shoes,6,2380,14.38
+ORD10542,2025-04-13,Rohit Yadav,Delhi,Electronics,Tablet,2,"₹15,680",18.46
+ORD10543,2025-10-28,Amit Kumar,Bengaluru,Home Appliances,Microwave,1,18660,9.0
+ORD10544,2025-09-01,Neha Gupta,Kolkata,Home Appliances,Microwave,3,11810,10.96
+ORD10545,2025-07-21,Sneha Patel,Bengaluru,Electronics,Tablet,3,37760,11.81
+ORD10546,2025-08-19,Rohit Yadav,Bengaluru,Electronics,Smartphone,5,48950,19.47
+ORD10547,2025-05-23,Rohit Yadav,Hyderabad,Furniture,Office Chair,2,14410,21.2
+ORD10548,2025-07-20,Sneha Patel,Lucknow,Clothing,T-Shirt,3,2050,13.23
+ORD10549,2025-08-19,Aarav Sharma,Delhi,Furniture,Office Chair,0,12280,17.45
+ORD10550,2025-07-04,Amit Kumar,Mumbai,Furniture,Bookshelf,5,14460,21.89
+ORD10551,2025-02-26,Amit Kumar,Gurugram,Electronics,Headphones,6,9960,24.18
+ORD10552,2025-06-24,Vikram Mehta,Bengaluru,Electronics,Headphones,4,7900,8.42
+ORD10553,2025-09-24,Vikram Mehta,Jaipur,Home Appliances,Washing Machine,5,56940,7.22
+ORD10554,2025-02-03,Vikram Mehta,Noida,Home Appliances,Microwave,6,14530,21.3
+ORD10555,2025-04-20,Pooja Shah,Lucknow,Home Appliances,Mixer Grinder,4,3500,21.12
+ORD10556,10-12-2025,Neha Gupta,Chennai,Home Appliances,Washing Machine,2,23250,7.07
+ORD10557,2025-03-09,Vikram Mehta,,Electronics,Headphones,3,13530,17.8
+ORD10558,2025-04-20,Neha Gupta,PUNE,Grocery,Tea,10,250,16.9
+ORD10559,2025-12-25,Rohit Yadav,Noida,Electronics,Tablet,1,14260,23.85
+ORD10560,2025-11-19,Rahul Singh,Hyderabad,Home Appliances,Refrigerator,4,35130,1.48
+ORD10561,2025-10-03,Anjali Rao,Noida,Clothing,T-Shirt,1,1270,7.35
+ORD10562,2025-10-19,Neha Gupta,Mumbai,Furniture,Bookshelf,5,10010,20.51
+ORD10563,2025-03-30,Aarav Sharma,Chennai,Furniture,Office Chair,2,7920,9.36
+ORD10564,2025-02-27,Vikram Mehta,Bengaluru,Furniture,Office Chair,5,11950,
+ORD10565,2025-09-30,Sneha Patel,Jaipur,Home Appliances,Refrigerator,3,74240,1.78
+ORD10566,2025-08-21,Pooja Shah,Hyderabad,Clothing,Jeans,4,1400,15.39
+ORD10567,2025-05-25,Neha Gupta,Noida,Electronics,Headphones,2,11250,12.91
+ORD10568,2025-04-11,Amit Kumar,Mumbai,Clothing,Jeans,75,2360,17.53
+ORD10569,2025-11-10,Aarav Sharma,Noida,Furniture,Office Chair,6,9340,10.45
+ORD10570,2025-07-01,Rahul Singh,Kolkata,Grocery,Tea,9,810,24.79
+ORD10571,2025-03-31,Sneha Patel,Bengaluru,Furniture,Office Chair,1,18330,20.11
+ORD10572,2025-02-24,Rahul Singh,Ahmedabad,Clothing,T-Shirt,3,1800,11.78
+ORD10573,2025-09-01,Rahul Singh,Noida,Electronics,Tablet,3,28490,6.28
+ORD10574,2025-05-09,Aarav Sharma,Mumbai,Clothing,Jeans,3,2750,23.63
+ORD10575,2025-03-24,Vikram Mehta,Gurugram,Grocery,Coffee,7,400,2.78
+ORD10576,2025-01-05,Priya Verma,Hyderabad,Grocery,Coffee,1,1440,5.1
+ORD10577,2025-06-23,Pooja Shah,Chennai,Grocery,Rice,6,1650,12.11
+ORD10578,2025-04-15,Sneha Patel,Bengaluru,Home Appliances,Refrigerator,2,68430,2.45
+ORD10579,2025-08-22,Pooja Shah,Kolkata,Home Appliances,Washing Machine,4,56660,17.13
+ORD10580,2025-01-28,Anjali Rao, Gurugram,Clothing,T-Shirt,5,1120,16.82
+ORD10581,2025-08-30,Pooja Shah,Gurugram,Home Appliances,Mixer Grinder,6,2530,12.45
+ORD10582,2025-05-03,Neha Gupta,Delhi,Clothing,T-Shirt,6,1110,19.7
+ORD10583,2025-02-18,Neha Gupta,Delhi,Home Appliances,Refrigerator,2,22090,1.22
+ORD10584,2025-01-23,Rohit Yadav,Jaipur,Home Appliances,Washing Machine,6,42280,10.34
+ORD10585,2025-01-10,Anjali Rao,Noida,Electronics,Smartphone,4,56050,22.06
+ORD10586,2025-09-28,Rahul Singh,Kolkata,Electronics,Smartphone,2,41700,2.64
+ORD10587,2025-01-16,Rohit Yadav,jaipur,Clothing,T-Shirt,1,1880,12.56
+ORD10588,2025-12-05,Rohit Yadav,Kolkata,Grocery,Rice,1,880,9.92
+ORD10589,2025-04-06,Rohit Yadav,Hyderabad,Electronics,Smartphone,1,24110,17.7
+ORD10590,2025-11-10,Priya Verma,Chennai,Home Appliances,Mixer Grinder,1,5020,16.94
+ORD10591,2025-02-15,Sneha Patel,Pune,Electronics,Smartphone,1,29560,19.06
+ORD10592,2025-10-23,Sneha Patel,Mumbai,Home Appliances,Mixer Grinder,5,1840,1.87
+ORD10593,2025-07-17,Anjali Rao,Bengaluru,Electronics,Smartphone,5,65580,14.36
+ORD10594,2025-01-31,Aarav Sharma,Jaipur,Home Appliances,Refrigerator,1,57450,21.25
+ORD10595,2025-11-13,Amit Kumar,Hyderabad,Clothing,T-Shirt,2,860,3.35
+ORD10596,2025-06-16,Vikram Mehta,Noida,Furniture,Bookshelf,1,4690,4.07
+ORD10597,2025-05-08,Aarav Sharma,Bengaluru,Clothing,Jacket,3,4330,8.52
+ORD10598,2025-01-01,Neha Gupta,Ahmedabad,Grocery,Tea,6,980,13.3
+ORD10599,2025-08-06,Sneha Patel,Ahmedabad,Electronics,Laptop,3,47890,3.05
+ORD10600,2025-09-29,Aarav Sharma,JAIPUR,Clothing,Jeans,2,2630,6.12
+ORD10601,2025-04-19,Neha Gupta,Pune,Clothing,T-Shirt,6,1760,22.14
+ORD10602,2025-03-02,Rahul Singh,Kolkata,Furniture,Sofa,6,40780,17.17
+ORD10603,2025-06-24,Amit Kumar,Delhi,Furniture,Sofa,2,22770,21.66
+ORD10604,2025-02-05,Pooja Shah,Noida,Furniture,Study Table,6,18900,7.6
+ORD10605,2025-01-08,Priya Verma,Ahmedabad,Electronics,Laptop,5,48350,13.93
+ORD10606,2025-04-02,Priya Verma,Pune,Clothing,Jacket,4,3220,10.22
+ORD10607,2025-02-18,Anjali Rao,Ahmedabad,Home Appliances,Mixer Grinder,6,3800,5.15
+ORD10608,2025-04-17,Sneha Patel,Jaipur,Clothing,Jeans,1,1770,15.62
+ORD10609,2025-03-22,Pooja Shah,Pune,Home Appliances,Refrigerator,1,56370,4.52
+ORD10610,2025-01-30,Vikram Mehta,Pune,Home Appliances,Mixer Grinder,1,5840,14.24
+ORD10611,2025-06-01,Aarav Sharma,Pune,Home Appliances,Refrigerator,1,66890,3.25
+ORD10612,2025-04-01,Rahul Singh,,Furniture,Bookshelf,5,13140,6.29
+ORD10613,2025-12-06,Priya Verma,Mumbai,Furniture,Study Table,5,23180,
+ORD10614,2025-11-29,Neha Gupta,Mumbai,Clothing,T-Shirt,2,1770,21.33
+ORD10615,2025-01-04,Aarav Sharma,Noida,Home Appliances,Mixer Grinder,3,5910,20.91
+ORD10616,2025-08-30,Anjali Rao,Hyderabad,Home Appliances,Microwave,1,8740,11.5
+ORD10617,2025-03-02,Anjali Rao,Hyderabad,Clothing,T-Shirt,4,2060,22.75
+ORD10618,2025-03-02,Neha Gupta,Noida,Clothing,Shoes,1,3140,11.1
+ORD10619,2025-01-30,Priya Verma,Chennai,Home Appliances,Microwave,5,10340,18.61
+ORD10620,2025-01-31,Vikram Mehta,Chennai,Grocery,Coffee,2,270,13.04
+ORD10621,2025-02-21,Priya Verma,Hyderabad,Grocery,Tea,4,₹430,23.1
+ORD10622,2025-08-20,Sneha Patel,Noida,Clothing,Jeans,1,1430,16.57
+ORD10623,2025-12-27,Anjali Rao,Hyderabad,Furniture,Office Chair,1,7750,12.74
+ORD10624,2025-12-18,Aarav Sharma,Chennai,Grocery,Rice,8,1340,19.31
+ORD10625,2025-03-16,Vikram Mehta,Ahmedabad,Grocery,Cooking Oil,6,1650,21.43
+ORD10626,2025-04-27,Aarav Sharma,Kolkata,Furniture,Study Table,6,14170,18.09
+ORD10627,2025-05-27,Anjali Rao,Gurugram,Clothing,Jeans,1,3080,7.61
+ORD10628,2025-07-25,Aarav Sharma,Jaipur,Furniture,Study Table,1,8300,9.0
+ORD10629,2025-09-02,Sneha Patel,Chennai,Clothing,Jeans,1,3120,18.56
+ORD10630,2025-08-29,Neha Gupta,Pune,Home Appliances,Washing Machine,2,59980,11.41
+ORD10631,2025-07-28,Rahul Singh,Ahmedabad,Home Appliances,Microwave,1,13200,17.72
+ORD10632,2025-05-03,Aarav Sharma,Gurugram,Grocery,Tea,3,790,6.45
+ORD10633,2025-10-08,Vikram Mehta,Gurugram,Clothing,Shoes,5,3110,14.05
+ORD10634,2025-03-12,Rohit Yadav,Gurugram,Furniture,Sofa,2,48230,22.16
+ORD10635,2025-08-05,Rahul Singh,Noida,Electronics,Smartphone,2,45960,11.31
+ORD10636,2025-12-05,Neha Gupta,Gurugram,Clothing,Jacket,5,6300,6.72
+ORD10637,2025-08-12,Priya Verma,Delhi,Clothing,T-Shirt,1,2030,1.76
+ORD10638,2025-02-07,Rohit Yadav,Bengaluru,Home Appliances,Washing Machine,4,53650,20.18
+ORD10639,2025-05-05,Anjali Rao,Jaipur,Grocery,Rice,8,1190,17.0
+ORD10640,2025-02-08,Pooja Shah,Pune,Furniture,Study Table,4,16410,4.54
+ORD10641,2025-07-07,Rohit Yadav,Pune,Furniture,Study Table,4,18550,1.84
+ORD10642,2025-12-11,Sneha Patel,Delhi,Electronics,Headphones,2,7120,8.5
+ORD10643,2025-04-30,Vikram Mehta,Noida,Home Appliances,Mixer Grinder,3,7740,5.18
+ORD10644,2025-04-30,Sneha Patel,Lucknow,Clothing,Shoes,2,6370,9.5
+ORD10645,2025-04-24,Neha Gupta, Pune,Clothing,Jacket,2,2330,12.75
+ORD10646,2025-02-09,Anjali Rao,Kolkata,Clothing,Shoes,6,4520,8.3
+ORD10647,2025-12-27,Vikram Mehta,Ahmedabad,Grocery,Tea,6,330,12.04
+ORD10648,2025-07-09,Priya Verma,Jaipur,Electronics,Smartphone,4,56470,20.89
+ORD10649,2025-10-31,Neha Gupta,Ahmedabad,Home Appliances,Washing Machine,6,50180,7.52
+ORD10650,2025-11-04,Anjali Rao,Jaipur,Furniture,Study Table,1,22500,14.72
+ORD10651,2025-10-01,Vikram Mehta,Lucknow,Home Appliances,Refrigerator,5,50840,0.73
+ORD10652,2025-12-23,Neha Gupta,Delhi,Electronics,Smartphone,1,22070,4.36
+ORD10653,2025-02-28,Priya Verma,Noida,Home Appliances,Refrigerator,1,73350,3.72
+ORD10654,2025-06-28,Sneha Patel,Pune,Furniture,Office Chair,5,10390,11.97
+ORD10655,2025-02-12,Amit Kumar,Gurugram,Furniture,Bookshelf,1,6090,1.59
+ORD10656,2025-06-18,Sneha Patel,Chennai,Electronics,Tablet,2,27210,4.71
+ORD10657,2025-12-21,Vikram Mehta,Bengaluru,Grocery,Rice,3,880,0.42
+ORD10658,2025-02-18,Priya Verma,Kolkata,Furniture,Office Chair,4,6010,19.85
+ORD10659,2025-11-15,Priya Verma,Jaipur,Clothing,Shoes,2,4640,10.89
+ORD10660,2025-04-21,Priya Verma,,Electronics,Smartphone,5,38520,18.77
+ORD10132,2025-01-21,Amit Kumar,Mumbai,Home Appliances,Mixer Grinder,3,2540,4.74
+ORD10662,2025-05-29,Neha Gupta,Jaipur,Electronics,Smartphone,5,53640,11.36
+ORD10663,2025-06-09,Amit Kumar,Gurugram,Home Appliances,Washing Machine,2,24610,5.66
+ORD10664,2025-06-11,Rohit Yadav,Lucknow,Furniture,Bookshelf,4,6640,19.37
+ORD10665,26/01/2025,Sneha Patel,Chennai,Furniture,Office Chair,3,7400,4.38
+ORD10666,2025-04-12,Sneha Patel,Noida,Home Appliances,Mixer Grinder,1,6670,17.96
+ORD10667,2025-06-09,Priya Verma,Noida,Furniture,Sofa,5,52270,15.59
+ORD10668,2025-05-10,Rohit Yadav,Mumbai,Clothing,Shoes,1,4480,21.31
+ORD10669,2025-08-17,Sneha Patel,Kolkata,Clothing,Jacket,5,2040,19.23
+ORD10670,2025-01-20,Rohit Yadav, Gurugram,Electronics,Tablet,2,12210,17.1
+ORD10671,2025-02-05,Sneha Patel,Bengaluru,Electronics,Tablet,6,28190,3.62
+ORD10672,2025-05-28,Rahul Singh,Chennai,Electronics,Laptop,1,49790,1.77
+ORD10673,2025-05-03,Rahul Singh,Bengaluru,Home Appliances,Mixer Grinder,2,6540,10.64
+ORD10674,2025-05-05,Anjali Rao, Chennai,Furniture,Bookshelf,1,4080,6.49
+ORD10675,2025-04-05,Pooja Shah,Pune,Clothing,Shoes,2,6740,9.83
+ORD10676,2025-04-10,Anjali Rao,Noida,Home Appliances,Washing Machine,6,54430,12.83
+ORD10677,2025-09-20,Anjali Rao,Lucknow,Home Appliances,Refrigerator,3,28170,21.36
+ORD10678,2025-06-24,Neha Gupta,Jaipur,Furniture,Bookshelf,2,8150,20.54
+ORD10679,2025-05-11,Pooja Shah,Delhi,Home Appliances,Microwave,1,20490,23.8
+ORD10680,2025-05-17,Sneha Patel,Pune,Furniture,Study Table,3,12490,8.82
+ORD10681,2025-04-27,Aarav Sharma,Jaipur,Clothing,Jacket,1,3730,15.9
+ORD10682,2025-03-29,Rahul Singh,Pune,Grocery,Cooking Oil,1,630,16.4
+ORD10683,2025-03-10,Neha Gupta,Chennai,Clothing,Shoes,3,6410,16.77
+ORD10684,2025-06-13,Rahul Singh,Lucknow,Electronics,Tablet,2,40560,13.56
+ORD10685,2025-08-29,Anjali Rao,Lucknow,Electronics,Headphones,3,13150,5.35
+ORD10686,2025-02-02,Priya Verma,Noida,Furniture,Bookshelf,2,6920,0.65
+ORD10687,2025-02-06,Pooja Shah,Noida,Electronics,Smartphone,3,40880,1.31
+ORD10688,2025-09-02,Vikram Mehta,Pune,Clothing,Shoes,3,5860,22.18
+ORD10689,2025-06-26,Amit Kumar,Lucknow,Grocery,Coffee,6,1600,14.33
+ORD10690,2025-08-17,Vikram Mehta,,Electronics,Laptop,4,84620,16.64
+ORD10691,2025-10-05,Sneha Patel,Jaipur,Home Appliances,Washing Machine,3,47230,3.12
+ORD10692,2025-10-30,Pooja Shah,Bengaluru,Grocery,Rice,8,530,3.27
+ORD10693,2025-05-29,Rohit Yadav,Lucknow,Electronics,Smartphone,5,32680,5.56
+ORD10694,2025-07-07,,Gurugram,Grocery,Rice,4,990,17.75
+ORD10695,2025-06-04,Sneha Patel,Chennai,Clothing,Jeans,3,2800,4.67
+ORD10696,2025-11-06,Vikram Mehta,Chennai,Grocery,Rice,3,1670,4.1
+ORD10697,2025-07-05,Aarav Sharma,Delhi,Electronics,Laptop,5,54330,0.59
+ORD10698,2025-08-25,Rahul Singh,,Grocery,Cooking Oil,9,550,3.83
+ORD10699,2025-03-11,Pooja Shah,Lucknow,Clothing,T-Shirt,4,870,6.9
+ORD10700,2025-11-18,Anjali Rao,Delhi,Clothing,Jeans,5,1140,0.14
+ORD10701,2025-05-02,Rohit Yadav,Pune,Furniture,Study Table,6,9640,20.55
+ORD10702,2025-10-27,Priya Verma,Lucknow,Home Appliances,Washing Machine,2,37420,14.85
+ORD10703,19-09-2025,Aarav Sharma,Hyderabad,Home Appliances,Microwave,4,21160,11.07
+ORD10704,2025-12-13,Vikram Mehta,Gurugram,Electronics,Laptop,5,59400,4.29
+ORD10705,2025-05-06,Neha Gupta,Mumbai,Home Appliances,Microwave,4,9420,10.25
+ORD10706,08-06-2025,Rahul Singh,Jaipur,Grocery,Coffee,5,530,2.12
+ORD10707,2025-09-16,Amit Kumar,Gurugram,Home Appliances,Microwave,1,13260,21.0
+ORD10708,2025-05-22,Anjali Rao,Chennai,Grocery,Coffee,8,500,14.8
+ORD10709,2025-02-07,Sneha Patel,Lucknow,Home Appliances,Washing Machine,2,34100,1.74
+ORD10710,2025-08-06,Sneha Patel,Ahmedabad,Electronics,Tablet,6,34670,21.01
+ORD10711,2025-10-08,Aarav Sharma,Delhi,Home Appliances,Mixer Grinder,5,7070,18.21
+ORD10712,2025-11-14,Amit Kumar,Gurugram,Furniture,Sofa,4,46820,16.57
+ORD10713,2025-07-07,Vikram Mehta,Ahmedabad,Electronics,Smartphone,6,46220,16.93
+ORD10714,2025-10-10,,Jaipur,Furniture,Study Table,5,8650,2.89
+ORD10715,2025-08-14,Anjali Rao, Pune,Electronics,Tablet,4,22720,22.38
+ORD10716,2025-09-02,Priya Verma,,Furniture,Bookshelf,6,5940,15.24
+ORD10717,2025-07-09,Vikram Mehta,Noida,Grocery,Tea,1,530,22.82
+ORD10718,2025-06-20,Amit Kumar,Hyderabad,Grocery,Rice,5,710,17.25
+ORD10719,2025-04-18,Aarav Sharma,Lucknow,Electronics,Laptop,2,81250,3.67
+ORD10720,2025-08-12,Amit Kumar,Noida,Home Appliances,Washing Machine,1,48800,18.0
+ORD10721,2025-10-10,Priya Verma,Gurugram,Electronics,Smartphone,5,37170,4.82
+ORD10722,2025-02-17,Rahul Singh,Kolkata,Clothing,Shoes,4,2120,7.54
+ORD10723,2025-03-05,Aarav Sharma,Delhi,Electronics,Laptop,2,59750,17.36
+ORD10724,2025-03-24,Priya Verma,Gurugram,Home Appliances,Refrigerator,4,30860,8.95
+ORD10725,2025-08-11,Sneha Patel,Bengaluru,Home Appliances,Microwave,1,13140,11.15
+ORD10726,2025-12-28,Rahul Singh,Gurugram,Clothing,T-Shirt,6,720,3.81
+ORD10727,2025-09-29,Pooja Shah,Jaipur,Furniture,Office Chair,4,18440,19.58
+ORD10728,2025-08-13,Aarav Sharma,,Grocery,Rice,8,1320,16.5
+ORD10729,2025-10-15,Rohit Yadav,Gurugram,Grocery,Cooking Oil,1,1140,17.21
+ORD10730,2025-12-26,Rohit Yadav,Delhi,Home Appliances,Refrigerator,5,66450,9.05
+ORD10731,2025-12-06,Vikram Mehta,Ahmedabad,Home Appliances,Mixer Grinder,6,7750,23.89
+ORD10732,2025-07-12,Neha Gupta,Pune,Grocery,Cooking Oil,6,2190,5.27
+ORD10733,2025-12-19,Sneha Patel,Ahmedabad,Grocery,Rice,10,1340,14.0
+ORD10734,2025-10-21,Rohit Yadav,Hyderabad,Grocery,Tea,3,1150,21.46
+ORD10735,2025-03-18,Vikram Mehta,Noida,Electronics,Headphones,1,8940,22.68
+ORD10736,2025-02-14,Pooja Shah,Gurugram,Grocery,Coffee,1,350,6.92
+ORD10737,2025-05-12,Priya Verma,Lucknow,Electronics,Headphones,4,7170,9.21
+ORD10738,2025-06-03,Neha Gupta,Noida,Electronics,Headphones,6,10090,6.95
+ORD10739,2025-09-14,Rohit Yadav,Bengaluru,Furniture,Study Table,5,20380,17.32
+ORD10740,2025-06-12,Vikram Mehta,Jaipur,Furniture,Sofa,6,67400,11.82
+ORD10741,2025-03-16,Amit Kumar,Delhi,Electronics,Laptop,6,72090,21.62
+ORD10742,2025-07-12,Neha Gupta,Pune,Home Appliances,Microwave,6,19220,0.83
+ORD10743,2025-02-11,Aarav Sharma,Mumbai,Clothing,T-Shirt,1,1240,11.73
+ORD10744,2025-11-08,Rahul Singh,Gurugram,Electronics,Tablet,3,32580,18.95
+ORD10745,2025-03-26,Rahul Singh,Mumbai,Home Appliances,Microwave,3,14110,19.65
+ORD10746,2025-04-24,Rahul Singh,Kolkata,Furniture,Bookshelf,1,6580,24.84
+ORD10747,2025-11-16,Anjali Rao,Mumbai,Electronics,Headphones,5,2200,22.84
+ORD10748,2025-07-16,Neha Gupta,Jaipur,Furniture,Office Chair,6,11140,20.57
+ORD10749,2025-09-24,Priya Verma,Chennai,Home Appliances,Microwave,2,11770,22.24
+ORD10750,2025-09-10,Amit Kumar,Kolkata,Home Appliances,Mixer Grinder,4,4080,13.85
+ORD10751,2025-06-25,Priya Verma,Ahmedabad,Grocery,Tea,3,550,2.81
+ORD10752,2025-05-25,Sneha Patel,Bengaluru,Home Appliances,Mixer Grinder,5,5380,4.46
+ORD10753,2025-08-23,Priya Verma,Pune,Electronics,Tablet,2,25930,9.24
+ORD10754,2025-04-12,Rohit Yadav,Jaipur,Furniture,Sofa,6,52830,9.01
+ORD10755,2025-05-31,Neha Gupta,Lucknow,Grocery,Cooking Oil,5,2140,1.61
+ORD10756,2025-02-06,Neha Gupta,Chennai,Electronics,Smartphone,5,41430,2.95
+ORD10757,2025-05-27,Priya Verma,Mumbai,Home Appliances,Refrigerator,6,57300,17.83
+ORD10758,2025-08-07,Priya Verma,Pune,Electronics,Tablet,1,20950,14.21
+ORD10759,2025-12-30,Pooja Shah,Chennai,Electronics,Headphones,3,12510,0.33
+ORD10760,2025-02-22,Neha Gupta,Noida,Home Appliances,Washing Machine,2,29230,22.01
+ORD10761,2025-07-27,Aarav Sharma,Noida,Grocery,Tea,7,780,17.44
+ORD10762,2025-05-19,Rohit Yadav,Gurugram,Clothing,T-Shirt,6,1170,21.77
+ORD10763,2025-08-07,Pooja Shah,chennai,Electronics,Laptop,1,74400,4.03
+ORD10764,2025-07-09,Amit Kumar,Chennai,Furniture,Study Table,3,7830,3.95
+ORD10765,2025-03-05,Rahul Singh,Pune,Home Appliances,Refrigerator,5,"₹47,650",14.36
+ORD10766,2025-08-26,Rohit Yadav,Delhi,Grocery,Coffee,7,1360,
+ORD10767,2025-05-04,Sneha Patel,Mumbai,Home Appliances,Washing Machine,1,50490,20.87
+ORD10768,2025-06-21,Anjali Rao,Delhi,Grocery,Coffee,7,540,16.75
+ORD10769,2025-05-03,Aarav Sharma,Kolkata,Electronics,Headphones,5,13940,4.96
+ORD10770,2025-02-15,Sneha Patel,Jaipur,Furniture,Office Chair,75,4800,18.86
+ORD10771,2025-12-18,Rahul Singh,Gurugram,Electronics,Headphones,2,5140,8.11
+ORD10772,2025-10-28,Aarav Sharma,hyderabad,Electronics,Headphones,2,2540,21.19
+ORD10773,2025-09-17,Aarav Sharma,Ahmedabad,Home Appliances,Refrigerator,3,22630,13.02
+ORD10774,2025-04-28,Neha Gupta,Bengaluru,Home Appliances,Mixer Grinder,2,3410,11.35
+ORD10775,2025-12-26,Neha Gupta,Jaipur,Home Appliances,Mixer Grinder,1,4270,4.96
+ORD10776,2025-06-21,Neha Gupta,Pune,Electronics,Tablet,3,33150,8.25
+ORD10777,2025-12-19,Vikram Mehta,Noida,Electronics,Headphones,4,3010,1.76
+ORD10778,2025-11-18,Priya Verma,Bengaluru,Grocery,Cooking Oil,5,1150,12.21
+ORD10779,2025-09-11,Pooja Shah,Hyderabad,Home Appliances,Refrigerator,6,36060,23.35
+ORD10780,2025-02-04,Anjali Rao,Bengaluru,Clothing,Jeans,2,1230,17.14
+ORD10781,2025-02-08,Priya Verma,Ahmedabad,Home Appliances,Refrigerator,6,33200,5.52
+ORD10782,2025-12-23,Sneha Patel,Bengaluru,Furniture,Bookshelf,2,12110,6.92
+ORD10783,2025-01-02,Rahul Singh,Noida,Clothing,Shoes,2,5170,10.77
+ORD10784,2025-05-14,Priya Verma,Noida,Home Appliances,Washing Machine,75,51930,2.3
+ORD10785,2025-01-22,Sneha Patel,Noida,Home Appliances,Refrigerator,2,68110,24.91
+ORD10786,2025-10-17,Rohit Yadav,mumbai,Furniture,Sofa,6,34180,5.1
+ORD10787,2025-07-01,Rohit Yadav,Chennai,Furniture,Study Table,3,16760,5.56
+ORD10788,2025-01-12,Vikram Mehta,Bengaluru,Furniture,Study Table,5,18280,4.64
+ORD10789,2025-03-02,Anjali Rao,,Grocery,Tea,5,690,6.22
+ORD10790,2025-05-29,Amit Kumar,Bengaluru,Grocery,Coffee,9,1520,0.8
+ORD10791,2025-12-16,Neha Gupta,Lucknow,Furniture,Sofa,3,41510,8.95
+ORD10792,2025-02-14,Sneha Patel,Lucknow,Furniture,Sofa,3,52020,20.65
+ORD10342,2025-09-06,Aarav Sharma,Mumbai,Furniture,Sofa,6,22550,4.25
+ORD10794,2025-11-08,Rohit Yadav,Jaipur,Clothing,T-Shirt,4,1960,7.64
+ORD10795,2025-08-30,Priya Verma,Lucknow,Home Appliances,Microwave,3,18930,18.43
+ORD10796,2025-04-11,Amit Kumar,Hyderabad,Clothing,T-Shirt,3,480,3.28
+ORD10797,2025-05-28,Vikram Mehta,Gurugram,Furniture,Sofa,4,34330,24.35
+ORD10798,2025-05-24,Aarav Sharma,Jaipur,Home Appliances,Washing Machine,3,53810,8.29
+ORD10799,2025-08-06,Neha Gupta,Gurugram,Home Appliances,Refrigerator,4,62500,9.37
+ORD10800,2025-08-14,Rohit Yadav,Bengaluru,Electronics,Laptop,3,89780,24.71
+ORD10801,06-Apr-2025,Vikram Mehta,Delhi,Electronics,Headphones,4,11250,2.85
+ORD10802,2025-12-14,Aarav Sharma,Kolkata,Furniture,Bookshelf,2,12170,5.17
+ORD10803,2025-02-20,Neha Gupta,Lucknow,Grocery,Cooking Oil,5,1900,22.73
+ORD10804,2025-10-22,Sneha Patel,Noida,Home Appliances,Mixer Grinder,5,2030,8.13
+ORD10805,2025-08-24,Priya Verma,Mumbai,Grocery,Rice,9,780,7.78
+ORD10806,2025-04-27,Priya Verma,Ahmedabad,Clothing,Jacket,1,6440,6.01
+ORD10807,2025-10-28,,Bengaluru,Clothing,Jeans,50,2550,12.99
+ORD10808,2025-08-29,,Hyderabad,Grocery,Tea,5,"₹1,190",1.36
+ORD10809,2025-11-03,Pooja Shah,Gurugram,Clothing,Shoes,2,6880,21.05
+ORD10810,2025-02-23,,Lucknow,Grocery,Coffee,3,890,24.82
+ORD10811,2025-04-19,Aarav Sharma,Noida,Electronics,Tablet,4,13270,2.27
+ORD10812,2025-07-30,Rohit Yadav,Hyderabad,Furniture,Office Chair,4,8270,17.55
+ORD10813,2025-02-21,Rohit Yadav,Chennai,Grocery,Tea,3,670,9.3
+ORD10814,18-Jul-2025,Sneha Patel,Ahmedabad,Grocery,Cooking Oil,4,1360,13.98
+ORD10815,2025-11-13,Sneha Patel,Noida,Furniture,Bookshelf,1,7440,24.61
+ORD10816,2025-12-12,Priya Verma,Ahmedabad,Furniture,Study Table,3,8230,0.57
+ORD10817,2025-01-02,Rahul Singh,Jaipur,Furniture,Study Table,4,8950,13.29
+ORD10818,2025-04-30,Rahul Singh,Lucknow,Furniture,Sofa,3,41780,20.8
+ORD10819,2025-07-12,Neha Gupta,Ahmedabad,Furniture,Office Chair,1,14760,16.89
+ORD10820,2025-10-05,Rahul Singh,Noida,Clothing,Shoes,2,"₹5,910",17.35
+ORD10821,2025-11-10,Rahul Singh,Jaipur,Furniture,Study Table,6,15190,7.85
+ORD10822,2025-11-12,Priya Verma,Gurugram,Grocery,Cooking Oil,8,670,7.53
+ORD10823,2025-08-15,Sneha Patel,Kolkata,Home Appliances,Washing Machine,6,23300,21.32
+ORD10824,2025-03-26,Aarav Sharma,Jaipur,Clothing,Shoes,5,8030,2.02
+ORD10825,2025-12-19,Rohit Yadav,Lucknow,Grocery,Rice,10,690,20.16
+ORD10826,2025-01-12,Aarav Sharma,KOLKATA,Electronics,Smartphone,5,63640,11.0
+ORD10827,2025-04-14,Sneha Patel,Jaipur,Clothing,Jeans,2,1780,0.65
+ORD10828,2025-02-06,Aarav Sharma,Kolkata,Furniture,Bookshelf,1,12210,1.26
+ORD10829,2025-02-14,Neha Gupta,Hyderabad,Furniture,Bookshelf,3,10640,24.27
+ORD10830,2025-05-27,Neha Gupta,Pune,Grocery,Rice,1,620,23.13
+ORD10831,2025-11-04,Rahul Singh,Bengaluru,Grocery,Coffee,10,1310,11.6
+ORD10832,2025-05-24,Amit Kumar,Lucknow,Clothing,Jeans,2,3380,12.76
+ORD10833,2025-01-24,Neha Gupta,Noida,Home Appliances,Microwave,4,10260,23.85
+ORD10834,2025-06-28,Rohit Yadav,Hyderabad,Furniture,Sofa,5,19380,18.84
+ORD10835,2025-03-23,Sneha Patel,Hyderabad,Furniture,Sofa,2,56070,16.45
+ORD10836,2025-03-20,Vikram Mehta,Gurugram,Clothing,Jeans,5,2130,12.67
+ORD10837,2025-10-20,Priya Verma,Pune,Home Appliances,Washing Machine,3,29590,15.89
+ORD10838,2025-10-31,Pooja Shah,Mumbai,Clothing,Jacket,4,3280,20.19
+ORD10839,2025-10-10,Rohit Yadav,,Furniture,Bookshelf,2,10100,22.43
+ORD10840,18-02-2025,Vikram Mehta,Hyderabad,Home Appliances,Microwave,6,13550,16.83
+ORD10841,2025-03-21,Vikram Mehta,Gurugram,Clothing,Jeans,1,2220,3.73
+ORD10842,2025-05-23,Rahul Singh, Noida,Home Appliances,Mixer Grinder,4,2930,14.44
+ORD10843,2025-10-28,Rohit Yadav,Mumbai,Home Appliances,Washing Machine,4,36470,
+ORD10844,2025-08-16,Aarav Sharma,Jaipur,Electronics,Laptop,2,70650,13.45
+ORD10845,2025-11-01,,Kolkata,Home Appliances,Microwave,6,9580,8.67
+ORD10846,2025-11-26,Rahul Singh,Lucknow,Electronics,Headphones,1,5160,6.31
+ORD10846,2025-11-26,Rahul Singh,Lucknow,Electronics,Headphones,1,5160,6.31
+ORD10848,2025-04-04,Amit Kumar,Delhi,Electronics,Tablet,4,20500,11.54
+ORD10849,2025-07-31,Priya Verma,Mumbai,Furniture,Study Table,6,22270,2.86
+ORD10850,2025-09-09,Aarav Sharma,Mumbai,Electronics,Headphones,6,3770,0.92
+ORD10851,2025-10-01,Vikram Mehta,Mumbai,Clothing,Shoes,6,3480,1.82
+ORD10852,2025-10-27,Rohit Yadav,Hyderabad,Grocery,Coffee,7,620,20.7
+ORD10853,2025-01-26,Rohit Yadav,Mumbai,Clothing,Jeans,6,2100,14.37
+ORD10854,2025-12-17,Sneha Patel,Bengaluru,Home Appliances,Refrigerator,1,73800,0.33
+ORD10855,2025-08-29,Rahul Singh,Pune,Clothing,Jeans,2,2030,15.89
+ORD10856,2025-07-21,Aarav Sharma,Jaipur,Home Appliances,Washing Machine,6,30440,9.55
+ORD10857,2025-02-04,Rahul Singh,Delhi,Furniture,Study Table,3,18410,7.17
+ORD10858,2025-12-19,Rahul Singh,Noida,Furniture,Bookshelf,5,3740,16.06
+ORD10859,2025-07-08,Rahul Singh,Kolkata,Furniture,Office Chair,6,10020,12.53
+ORD10860,2025-09-25,Anjali Rao,Pune,Clothing,T-Shirt,1,1280,11.1
+ORD10861,2025-07-14,Neha Gupta,Ahmedabad,Electronics,Headphones,2,7620,17.8
+ORD10862,2025-10-12,Amit Kumar,Noida,Clothing,Shoes,5,5480,16.29
+ORD10863,2025-08-14,Vikram Mehta,Kolkata,Furniture,Study Table,2,10520,3.82
+ORD10864,2025-03-18,Amit Kumar,Mumbai,Grocery,Cooking Oil,7,360,0.42
+ORD10865,2025-08-16,Amit Kumar,Kolkata,Electronics,Laptop,5,64790,19.07
+ORD10866,2025-06-04,Rohit Yadav,Lucknow,Electronics,Laptop,4,81800,20.27
+ORD10867,2025-02-15,Aarav Sharma,Delhi,Furniture,Study Table,4,8020,5.56
+ORD10868,2025-04-10,Pooja Shah,Chennai,Electronics,Laptop,5,48170,7.24
+ORD10869,2025-10-28,Neha Gupta,Ahmedabad ,Clothing,Shoes,3,7330,1.17
+ORD10870,2025-11-02,Aarav Sharma,Noida,Electronics,Headphones,3,2230,1.6
+ORD10871,2025-09-12,Amit Kumar,Gurugram,Home Appliances,Microwave,6,15620,0.53
+ORD10872,09/10/2025,Amit Kumar,Jaipur,Clothing,Jacket,3,4820,2.14
+ORD10873,2025-04-28,Sneha Patel,Noida,Grocery,Coffee,6,690,20.81
+ORD10874,2025-05-07,Vikram Mehta,Chennai,Furniture,Bookshelf,3,6200,24.53
+ORD10875,2025-05-12,Pooja Shah,Mumbai,Home Appliances,Mixer Grinder,4,2640,13.69
+ORD10876,2025-05-12,Rahul Singh,Ahmedabad,Home Appliances,Refrigerator,1,34250,15.41
+ORD10877,2025-03-31,Priya Verma,Pune,Home Appliances,Mixer Grinder,4,5900,2.61
+ORD10878,2025-04-08,Vikram Mehta,Bengaluru,Clothing,Shoes,1,6200,4.89
+ORD10879,2025-12-04,Pooja Shah,Bengaluru,Grocery,Tea,7,690,4.7
+ORD10880,2025-08-27,Aarav Sharma,Noida,Home Appliances,Microwave,5,10610,18.57
+ORD10881,2025-05-18,Anjali Rao,Hyderabad,Grocery,Cooking Oil,6,800,15.03
+ORD10882,2025-02-15,Rahul Singh,Kolkata,Home Appliances,Washing Machine,2,40260,11.96
+ORD10883,2025-10-10,Neha Gupta,Ahmedabad,Electronics,Smartphone,2,68280,7.22
+ORD10884,2025-07-22,Aarav Sharma,Bengaluru,Electronics,Tablet,2,17700,11.66
+ORD10885,2025-02-18,Neha Gupta,Bengaluru,Clothing,Shoes,1,3050,0.61
+ORD10886,2025-08-03,Pooja Shah,Jaipur,Electronics,Headphones,6,"₹7,960",6.15
+ORD10887,2025-07-10,Pooja Shah, Delhi,Furniture,Study Table,1,22730,3.12
+ORD10888,23-12-2025,Anjali Rao,Chennai,Grocery,Rice,10,690,9.96
+ORD10889,2025-06-27,Vikram Mehta,Gurugram,Grocery,Coffee,5,490,17.71
+ORD10890,2025-08-11,Neha Gupta,Pune,Grocery,Tea,10,750,8.15
+ORD10891,2025-02-22,Aarav Sharma,Ahmedabad,Grocery,Tea,9,420,18.59
+ORD10892,2025-09-26,Anjali Rao,Hyderabad,Furniture,Bookshelf,4,8730,18.99
+ORD10893,2025-11-14,Rahul Singh,Noida,Furniture,Office Chair,6,7600,17.09
+ORD10894,2025-04-18,Anjali Rao,Jaipur,Home Appliances,Washing Machine,2,32040,23.74
+ORD10895,2025-11-20,Rahul Singh,Delhi,Clothing,Shoes,1,2470,1.9
+ORD10896,2025-09-04,Vikram Mehta,Chennai,Clothing,T-Shirt,1,2120,10.34
+ORD10897,2025-07-30,Neha Gupta,Ahmedabad,Home Appliances,Refrigerator,5,36770,12.29
+ORD10898,2025-09-16,Aarav Sharma,Ahmedabad,Clothing,T-Shirt,6,470,19.7
+ORD10899,2025-06-21,Aarav Sharma,Delhi,Clothing,Jeans,2,1140,1.39
+ORD10900,2025-09-10,Sneha Patel,Noida,Clothing,Shoes,6,5480,14.51
+ORD10901,2025-05-14,Vikram Mehta,Kolkata,Electronics,Headphones,6,14410,12.49
+ORD10902,2025-09-09,Priya Verma,Bengaluru,Grocery,Coffee,2,1250,12.45
+ORD10903,2025-11-03,Anjali Rao,Pune,Clothing,T-Shirt,1,480,21.96
+ORD10904,2025-08-31,Neha Gupta,Ahmedabad,Grocery,Tea,1,760,9.47
+ORD10905,2025-06-07,Rohit Yadav,Mumbai,Furniture,Office Chair,3,18820,14.17
+ORD10906,2025-08-24,Rohit Yadav,Jaipur,Grocery,Rice,7,1440,24.22
+ORD10907,2025-11-21,Rohit Yadav,DELHI,Grocery,Coffee,5,1320,23.67
+ORD10908,2025-12-30,Aarav Sharma,Mumbai,Electronics,Smartphone,3,13790,16.2
+ORD10909,2025-07-15,Neha Gupta,Lucknow,Furniture,Study Table,6,19100,13.22
+ORD10910,2025-10-28,Rahul Singh,Noida,Grocery,Tea,10,410,12.9
+ORD10911,2025-08-18,Rahul Singh,Chennai,Clothing,Jacket,2,6320,7.22
+ORD10912,2025-05-19,Anjali Rao,Delhi,Furniture,Office Chair,5,18950,4.08
+ORD10913,2025-12-15,Priya Verma,Ahmedabad,Electronics,Headphones,5,5480,3.89
+ORD10914,25-12-2025,Aarav Sharma,Kolkata,Home Appliances,Microwave,5,20170,21.33
+ORD10915,2025-03-03,Neha Gupta,Gurugram,Clothing,Jeans,4,3010,5.73
+ORD10916,2025-02-19,Rahul Singh,Hyderabad,Electronics,Laptop,3,73520,20.81
+ORD10917,2025-06-10,Vikram Mehta,Jaipur,Furniture,Study Table,2,7910,16.91
+ORD10918,2025-11-06,Rohit Yadav,Gurugram,Clothing,Jacket,3,2440,21.49
+ORD10919,2025-12-23,Aarav Sharma,Jaipur,Home Appliances,Washing Machine,6,54670,5.04
+ORD10920,2025-06-15,Priya Verma,Lucknow,Furniture,Office Chair,3,8150,19.29
+ORD10921,2025-02-24,Priya Verma,Ahmedabad,Clothing,Jeans,4,1950,4.5
+ORD10922,2025-02-16,Vikram Mehta,Noida,Home Appliances,Refrigerator,1,26910,11.34
+ORD10923,2025-08-19,Priya Verma,Delhi,Electronics,Headphones,6,6440,5.03
+ORD10924,2025-08-21,Rohit Yadav,Ahmedabad,Grocery,Coffee,6,1310,3.18
+ORD10212,2025-07-09,Rohit Yadav,Ahmedabad,Clothing,T-Shirt,6,1140,23.7
+ORD10926,2025-04-07,Anjali Rao,Pune,Furniture,Sofa,3,37750,23.04
+ORD10927,2025-10-18,Anjali Rao,Bengaluru,Electronics,Headphones,1,4440,6.47
+ORD10928,2025-12-25,Rahul Singh,Chennai,Electronics,Smartphone,5,37080,24.77
+ORD10929,2025-07-12,Priya Verma,Chennai,Clothing,Shoes,3,5850,18.51
+ORD10930,2025-07-30,Rohit Yadav,Gurugram,Clothing,Jeans,3,1650,11.15
+ORD10931,2025-09-02,Pooja Shah,Kolkata,Clothing,Jacket,5,2450,23.03
+ORD10932,2025-12-30,Aarav Sharma,Pune,Grocery,Rice,7,1600,20.49
+ORD10933,2025-01-11,Anjali Rao,Bengaluru,Furniture,Study Table,4,19570,17.45
+ORD10934,2025-04-24,Amit Kumar,Bengaluru,Electronics,Laptop,6,54130,9.29
+ORD10935,2025-07-19,Priya Verma,Mumbai,Clothing,Shoes,3,1700,12.97
+ORD10936,2025-12-05,Sneha Patel,Kolkata,Grocery,Coffee,7,860,4.29
+ORD10937,2025-05-09,Vikram Mehta,Ahmedabad,Grocery,Coffee,6,1800,18.28
+ORD10938,2025-09-19,Neha Gupta,Jaipur,Electronics,Headphones,5,1560,3.98
+ORD10369,2025-11-25,Sneha Patel,Lucknow,Electronics,Headphones,2,5050,22.12
+ORD10940,2025-02-09,Aarav Sharma,Lucknow,Grocery,Coffee,9,290,16.69
+ORD10941,2025-09-28,Amit Kumar,Ahmedabad,Electronics,Headphones,2,1750,13.83
+ORD10942,2025-01-23,Priya Verma,Hyderabad,Clothing,Jeans,1,1740,21.53
+ORD10943,2025-08-17,Neha Gupta,Pune,Clothing,Jacket,3,"₹2,670",4.54
+ORD10139,2025-01-27,Amit Kumar,Lucknow,Furniture,Bookshelf,4,10150,8.93
+ORD10945,2025-05-01,Priya Verma,Chennai,Furniture,Bookshelf,5,7010,5.77
+ORD10946,2025-08-16,Vikram Mehta,Jaipur,Furniture,Office Chair,1,15360,7.54
+ORD10947,2025-04-17,Sneha Patel,Chennai,Home Appliances,Washing Machine,3,49950,14.33
+ORD10948,2025-10-22,Aarav Sharma,Kolkata,Clothing,T-Shirt,1,1380,9.71
+ORD10949,2025-08-11,Rohit Yadav,Kolkata,Furniture,Sofa,2,57290,12.23
+ORD10950,2025-06-17,Anjali Rao,Delhi,Electronics,Headphones,2,10670,7.3
+ORD10951,2025-11-16,Neha Gupta,Pune,Home Appliances,Mixer Grinder,6,5120,14.95
+ORD10952,2025-06-25,Aarav Sharma,Noida,Home Appliances,Microwave,4,11450,22.89
+ORD10953,2025-07-31,Amit Kumar,Noida,Home Appliances,Washing Machine,2,33690,14.72
+ORD10954,2025-09-21,Vikram Mehta,Pune,Electronics,Tablet,3,32480,11.38
+ORD10955,2025-12-04,Aarav Sharma,Mumbai,Furniture,Bookshelf,3,6960,8.03
+ORD10956,2025-06-25,Aarav Sharma,Lucknow,Home Appliances,Mixer Grinder,3,"₹6,980",7.72
+ORD10957,2025-04-19,Sneha Patel,Noida,Electronics,Tablet,2,32330,8.56
+ORD10958,2025-05-09,Priya Verma,Kolkata,Grocery,Cooking Oil,7,2040,12.47
+ORD10959,2025-08-04,Pooja Shah,Pune,Furniture,Office Chair,3,12770,11.89
+ORD10960,2025-05-13,Pooja Shah,Lucknow,Furniture,Study Table,2,6970,23.14
+ORD10961,2025-12-25,Rohit Yadav,Mumbai,Home Appliances,Refrigerator,2,27190,17.02
+ORD10962,2025-07-11,Aarav Sharma,Mumbai,Clothing,Jacket,4,4930,5.77
+ORD10963,2025-01-24,Sneha Patel,Delhi,Grocery,Coffee,4,320,8.73
+ORD10964,2025-09-28,Rahul Singh,Jaipur,Clothing,Jeans,5,1150,15.57
+ORD10965,2025-04-22,Pooja Shah,Ahmedabad,Clothing,Jeans,3,2120,23.3
+ORD10966,2025-06-26,Aarav Sharma,Hyderabad,Furniture,Sofa,2,64330,5.01
+ORD10967,2025-04-25,Pooja Shah,Noida,Grocery,Rice,8,940,3.74
+ORD10968,2025-12-17,Priya Verma,Bengaluru,Home Appliances,Microwave,3,8560,13.52
+ORD10969,2025-08-30,Amit Kumar,Ahmedabad,Furniture,Sofa,4,33660,13.63
+ORD10970,2025-04-01,Priya Verma,Mumbai,Electronics,Smartphone,4,61830,16.93
+ORD10971,2025-02-02,Priya Verma,Chennai,Clothing,Jeans,6,2730,18.19
+ORD10972,2025-09-27,Anjali Rao,Hyderabad,Grocery,Cooking Oil,1,2080,16.52
+ORD10973,2025-07-30,Pooja Shah,Pune,Furniture,Bookshelf,1,9630,6.77
+ORD10974,2025-04-18,Neha Gupta,Gurugram,Clothing,Jeans,6,970,15.9
+ORD10975,2025-09-07,Vikram Mehta,Ahmedabad,Grocery,Tea,3,1140,0.08
+ORD10976,2025-02-23,Anjali Rao,Kolkata,Clothing,T-Shirt,5,1910,18.29
+ORD10977,2025-03-11,Anjali Rao,Hyderabad,Electronics,Headphones,6,3280,19.44
+ORD10978,2025-08-04,Amit Kumar,Pune,Clothing,Jeans,5,1120,2.88
+ORD10979,2025-10-01,Rohit Yadav,Gurugram,Furniture,Office Chair,5,19820,5.38
+ORD10980,2025-04-29,Sneha Patel,Mumbai,Electronics,Laptop,3,50580,10.45
+ORD10981,2025-09-05,Neha Gupta,Bengaluru,Electronics,Laptop,4,58570,18.23
+ORD10982,2025-12-15,Pooja Shah,Hyderabad,Home Appliances,Washing Machine,5,50570,4.19
+ORD10983,2025-03-02,Neha Gupta,Hyderabad,Furniture,Study Table,3,7130,18.09
+ORD10984,2025-11-28,Aarav Sharma,Jaipur,Furniture,Study Table,6,10380,0.18
+ORD10985,2025-01-28,Rahul Singh,Ahmedabad,Grocery,Coffee,10,870,10.53
+ORD10986,2025-09-23,Sneha Patel,Chennai,Clothing,Jeans,5,1920,
+ORD10987,2025-02-16,Anjali Rao,Delhi,Furniture,Bookshelf,5,6870,2.85
+ORD10988,2025-10-31,Priya Verma,Ahmedabad,Clothing,Shoes,2,1470,14.13
+ORD10989,27/05/2025,Anjali Rao,Jaipur,Home Appliances,Refrigerator,6,37810,1.46
+ORD10990,2025-05-11,Anjali Rao,Hyderabad,Home Appliances,Washing Machine,4,34270,5.84
+ORD10991,2025-10-31,Anjali Rao,Gurugram,Furniture,Office Chair,3,19470,10.62
+ORD10992,2025-08-16,Pooja Shah,Hyderabad,Home Appliances,Refrigerator,6,63350,23.42
+ORD10993,2025-12-23,Pooja Shah,Delhi,Grocery,Cooking Oil,2,980,6.24
+ORD10994,2025-06-25,Neha Gupta,Kolkata,Electronics,Smartphone,4,63820,2.26
+ORD10995,2025-06-19,Priya Verma,Ahmedabad,Grocery,Cooking Oil,9,1930,0.47
+ORD10996,2025-03-31,Rohit Yadav,Ahmedabad,Furniture,Sofa,5,61840,11.2
+ORD10997,2025-06-06,Rohit Yadav,Kolkata,Furniture,Study Table,2,7980,24.51
+ORD10998,2025-12-17,Amit Kumar,Hyderabad,Furniture,Bookshelf,5,13060,3.9
+ORD10999,2025-11-08,Rahul Singh,Kolkata,Furniture,Sofa,2,28000,3.29
+ORD11000,2025-07-22,Amit Kumar,Bengaluru,Home Appliances,Microwave,2,19790,24.52

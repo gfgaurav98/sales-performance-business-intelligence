@@ -1,0 +1,13 @@
+City,order_count,units_sold,missing_price_records,known_gross_sales,sales_share_pct
+Noida,108,484,1,9456340.0,15.43
+Jaipur,95,435,1,7567530.0,12.35
+Ahmedabad,85,368,0,5279100.0,8.61
+Kolkata,69,281,1,4977920.0,8.12
+Chennai,78,263,0,4570530.0,7.46
+Lucknow,70,255,1,4523200.0,7.38
+Mumbai,81,416,0,4404200.0,7.19
+Bengaluru,64,286,1,4400530.0,7.18
+Hyderabad,78,286,2,4372980.0,7.14
+Delhi,76,289,1,4368920.0,7.13
+Pune,92,372,4,3716950.0,6.07
+Gurugram,75,301,0,3642510.0,5.94

@@ -1,0 +1,7 @@
+discount_band,order_count,units_sold,known_gross_sales,missing_price_records,sales_share_pct
+0 to <5,216,921,16064180.0,3,25.82
+10 to <15,190,810,11259450.0,2,18.1
+15 to <20,192,878,10786680.0,3,17.34
+20 to 25,185,699,11969450.0,1,19.24
+5 to <10,190,735,11269730.0,3,18.11
+Missing,15,65,870930.0,0,1.4

@@ -1,0 +1,21 @@
+Product,order_count,units_sold,missing_price_records,known_gross_sales,sales_share_pct
+Washing Machine,55,257,1,11488670.0,18.46
+Laptop,40,137,1,8854660.0,14.23
+Sofa,47,181,0,7920940.0,12.73
+Smartphone,45,174,0,7589260.0,12.2
+Refrigerator,53,166,2,7290630.0,11.72
+Study Table,64,243,0,3652590.0,5.87
+Tablet,44,133,1,3428780.0,5.51
+Office Chair,57,271,0,2723720.0,4.38
+Microwave,43,149,0,2178350.0,3.5
+Bookshelf,50,161,0,1478040.0,2.38
+Headphones,54,191,1,1459260.0,2.35
+Mixer Grinder,51,182,1,845400.0,1.36
+Shoes,50,167,1,844940.0,1.36
+Jeans,52,294,0,640160.0,1.03
+Jacket,38,138,1,542560.0,0.87
+Rice,54,320,0,354420.0,0.57
+Cooking Oil,45,242,0,267310.0,0.43
+T-Shirt,53,188,0,246180.0,0.4
+Coffee,42,240,0,234700.0,0.38
+Tea,51,274,3,179850.0,0.29

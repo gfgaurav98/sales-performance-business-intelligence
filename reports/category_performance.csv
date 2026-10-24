@@ -1,0 +1,6 @@
+Category,order_count,units_sold,missing_price_records,known_gross_sales,sales_share_pct
+Home Appliances,202,754,4,21803050.0,35.04
+Electronics,183,635,3,21331960.0,34.28
+Furniture,218,856,0,15775290.0,25.35
+Clothing,193,787,2,2273840.0,3.65
+Grocery,192,1076,3,1036280.0,1.67

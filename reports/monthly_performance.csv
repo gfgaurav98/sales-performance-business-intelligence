@@ -1,0 +1,13 @@
+Month,Month_Name,order_count,units_sold,missing_price_records,known_gross_sales,sales_share_pct
+1,January,78,282,0,5153170.0,8.28
+2,February,85,433,1,6156790.0,9.9
+3,March,61,211,1,3426440.0,5.51
+4,April,94,402,2,5911450.0,9.5
+5,May,99,464,1,8604850.0,13.83
+6,June,76,289,1,4669740.0,7.51
+7,July,81,325,0,4976410.0,8.0
+8,August,96,390,4,6208130.0,9.98
+9,September,71,279,0,4297560.0,6.91
+10,October,77,360,2,4866800.0,7.82
+11,November,89,340,0,3885930.0,6.25
+12,December,81,333,0,4063150.0,6.53

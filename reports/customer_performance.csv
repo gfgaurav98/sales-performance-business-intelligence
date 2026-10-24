@@ -1,0 +1,11 @@
+Customer_Name,order_count,units_sold,missing_price_records,known_gross_sales,sales_share_pct
+Priya Verma,110,489,1,10857810.0,17.57
+Rohit Yadav,96,383,1,6959600.0,11.26
+Neha Gupta,103,406,1,6819540.0,11.03
+Aarav Sharma,103,387,1,5860710.0,9.48
+Vikram Mehta,107,413,1,5595150.0,9.05
+Amit Kumar,82,393,0,5269280.0,8.52
+Anjali Rao,97,387,1,5269220.0,8.52
+Sneha Patel,98,446,1,5243220.0,8.48
+Pooja Shah,88,343,1,5017800.0,8.12
+Rahul Singh,94,375,3,4919980.0,7.96
